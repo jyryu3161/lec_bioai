@@ -1,0 +1,944 @@
+assay_name,smiles, Affinity,Affinity_unit,Label
+Patch Clamp,c1ccccc1,4365160000,uM,0
+Patch Clamp,c1(c(cccc1)OC(C)=O)C(O)=O,100000,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@H](CC[N+](CC1)CCN2CCNC2=O)1)c1ccc(cc1)C(=O)[O-],75000,uM,0
+Patch Clamp,N12[C@@H]([C@@H](NC([C@@H](c3ccc(O)cc3)N)=O)C2=O)SC([C@@H]1C(O)=O)(C)C,50000,uM,0
+Patch Clamp,CCC2(c1ccccc1)C(=O)NC(=O)NC2=O,30000,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(CCC)c2c1)c1ccc(F)cc1,26000,uM,0
+Patch Clamp,CNC(=NC#N)NCCSCc1nc[nH]c1C,10000,uM,0
+Patch Clamp,O=C(OC)C1C2[N+](C)C(CC1O)CC2,6025,uM,0
+Patch Clamp,C1[C@H]2[N@@]([C@@H]([C@H](C(OC)=O)[C@H]1O)CC2)C,6025,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@@H](O)C)c1ccc(F)cc1,4550,uM,0
+Patch Clamp,c1(ccncc1)N,4365,uM,0
+Patch Clamp,C(C(Cl)(Cl)Cl)(C)(C)O,4365,uM,0
+Patch Clamp,O=C(OC1CC2[N+](C)C(CC2)C1C(=O)[O-])c1ccccc1,3981,uM,0
+Patch Clamp,O(C(=O)c1ccccc1)[C@@H]1[C@@H]([C@@H]2[N@@](C)[C@@H](C1)CC2)C(O)=O,3981,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(CC)c2c1)c1ccc(F)cc1,3500,uM,0
+Patch Clamp,C1(c2ccccc2)(C(NC(=O)NC1=O)=O)CC,3019,uM,0
+Patch Clamp,O=C1NC(=O)C(CC)(C(=O)N1)c1ccccc1,3000,uM,0
+Patch Clamp,N1([C@@H](CCC1)C(O)=O)C([C@@H](CS)C)=O,3000,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@@H](O)CC)c1ccc(F)cc1,2200,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)C(=O)CC)c1ccc(F)cc1,1947,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@@H](CC)CC)c1ccc(F)cc1,1480,uM,0
+Patch Clamp,c12c3c(N4CCN(C)CC4)c(F)cc1c(c(C(O)=O)cn2[C@@H](C)CO3)=O,1412.54,uM,0
+Patch Clamp,Fc1cc2C(=O)C(=CN3c2c(OCC3C)c1N1CC[N+](C)CC1)C(=O)[O-],1412,uM,0
+Patch Clamp,[H][C@]12C=C[C@H](O)[C@]3([H])Oc5c(O)ccc4C[C@@]1([H])[N@](C)CC[C@@]23c45,1000,uM,0
+Patch Clamp, c12[C@]34[C@@H]5[C@H]([N@](C)CC4)Cc2ccc(c1O[C@H]3[C@@H](O)C=C5)O,1000,uM,0
+Patch Clamp,FC1=CC2C(=[N+](C=C(C2=O)C(=O)[O-])C2CC2)C=C1N1CC[N+]CC1,966,uM,0
+Patch Clamp, c12cc(N3CCNCC3)c(cc2c(=O)c(cn1C1CC1)C(O)=O)F,954.993,uM,0
+Patch Clamp,c12cc(N3CCNCC3)c(cc2c(=O)c(cn1C1CC1)C(O)=O)F,954.99,uM,0
+Patch Clamp, c12c3c(N4CCN(C)CC4)c(F)cc1c(c(C(O)=O)cn2[C@@H](C)CO3)=O,912.011,uM,0
+Patch Clamp,c12c3c(N4CCN(C)CC4)c(F)cc1c(c(C(O)=O)cn2[C@@H](C)CO3)=O,912.01,uM,0
+Patch Clamp,Fc1cc2C(=O)C(=CN3c2c(OC[C@H]3(C))c1N1CC[N+](C)CC1)C(=O)[O-],912,uM,0
+Patch Clamp,O([C@@H]1[C@H]([C@H](O[C@H]2C[C@]([C@@H](O)[C@@H](O2)C)(OC)C)[C@H](C(O[C@@H]([C@@](C)(O)[C@@H]([C@H](C([C@@H](C[C@@]1(C)O)C)=O)C)O)CC)=O)C)C)[C@@H]1[C@H]([C@@H](C[C@@H](O1)C)N(C)C)O,891.25,uM,0
+Patch Clamp,O=[N+]([O-])c1ccccc1C1C(=C(NC(C)=C1C(=O)OC)C)C(=O)OC,616.59,uM,0
+Patch Clamp,C1(c2c(cccc2)[N+](=O)[O-])C(=C(NC(=C1C(OC)=O)C)C)C(OC)=O,616.59,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@H](CC[N+](CC1)CCN2CCNC2=O)1)c1ccc(cc1)CCO,579,uM,0
+Patch Clamp,CS(=O)(=O)Nc1ccc(cc1)[C@@H](CNC(C)C)O,556,uM,0
+Patch Clamp,c1(cc(ccc1)C(F)(F)F)C[C@H](NCC)C,537.03,uM,0
+Patch Clamp,OC(CCC[N+]1CCC(CC1)C(O)(c1ccccc1)c1ccccc1)c1ccc(cc1)C(O)(C)C,460,uM,0
+Patch Clamp,CC1Sc2c(C(=O)O)c(=O)c3cc(F)c(cc3n12)N4CCN(Cc5oc(=O)oc5C)CC4,316.228,uM,0
+Patch Clamp,O=C1OC(C)C(C)C(O)C(C)C(=O)C2(OC2)CC(C)C(OC2OC(C)CC([N+](C)C)C2O)C(C)C(OC2OC(C)C(O)C(OC)C2)C1C,309,uM,0
+Patch Clamp,COc1ccc2n(C(=O)c3ccc(Cl)cc3)c(C)c(CC(=O)O)c2c1,301.995,uM,0
+Patch Clamp, c12c3c(ccc1C[C@@H]1[C@@H]4C=C[C@@H]([C@@H](O3)[C@@]24CC[N@]1C)O)OC,301.995,uM,0
+Patch Clamp,[H][C@]12C=C[C@H](O)[C@]3([H])Oc5c(OC)ccc4C[C@@]1([H])[N@](C)CC[C@@]23c45 ,301,uM,0
+Patch Clamp,[H][N+]([H])([H])[C@H]3CC(C(=O)N1CCn2c(C1)nnc2C(F)(F)F)=CC[C@@H]3c4cc(F)c(F)cc4F,300,uM,0
+Patch Clamp,COc1ccc2n(C(=O)c3ccc(Cl)cc3)c(C)c(CC(=O)O)c2c1,300,uM,0
+Patch Clamp,N[C@H]3CN(C(=O)c2cnc1ccccc1n2)CC3C(=O)N4CCCC4,300,uM,0
+Patch Clamp,CC[C@H]3OC(=O)[C@H](C)[C@@H](OC1CC(C)(OC)C(O)C(C)O1)[C@H](C)[C@@H](OC2OC(C)CC(NC)C2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]3(C)O,273.9,uM,0
+Patch Clamp,CCN(CC)CC(=O)Nc1c(C)cccc1C,263.027,uM,0
+Patch Clamp,CCN(CC)CC(=O)Nc1c(C)cccc1C,262.9,uM,0
+Patch Clamp,N=C(N)c2ccc(OCCCCCOc1ccc(C(=N)N)cc1)cc2,252,uM,0
+Patch Clamp,N1(c2c(cccc2)C=Cc2c1cccc2)C(N)=O,251.18,uM,0
+Patch Clamp, c1(cccnc1)[C@H]1[N@@](CCC1)C,245.471,uM,0
+Patch Clamp,[nH0]1cccc(c1)C1[N+](C)CCC1,245,uM,0
+Patch Clamp,O=C1NC(=O)C(N1)(c1ccccc1)c1ccccc1,240,uM,0
+Patch Clamp,O=C3NC(=O)C(c1ccccc1)(c2ccccc2)N3,240,uM,0
+Patch Clamp,C1(c2ccccc2)(c2ccccc2)NC(=O)NC1=O,239.8,uM,0
+Patch Clamp,O(C)c1cc(cc(OC)c1OC)Cc1c[nH0]c(N)[nH0]c1N,239,uM,0
+Patch Clamp,c1(F)cc2c(c(cn(C3CC3)c2c(OC)c1N1C[C@@H]2[C@H](C1)CCCN2)C(O)=O)=O,235,uM,0
+Patch Clamp,Nc1nnc(c(N)n1)c2cccc(Cl)c2Cl,229.087,uM,0
+Patch Clamp,Nc2nnc(c1cccc(Cl)c1Cl)c(N)n2,229,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@H](CC[N+]CC1)1)c1ccc(F)cc1,204,uM,0
+Patch Clamp,COC(=O)C1=CCC2CCC1N2C,170.5,uM,0
+Patch Clamp,O=C(OC)C1=CCC2[N+](C)C1CC2,169.82,uM,0
+Patch Clamp,C1[C@@H]2CC[C@@H](C(C(OC)=O)=C1)[N@]2C,169.82,uM,0
+Patch Clamp,NC1=[N+]CC2N1c1ccccc1Cc1ccccc12,165.95,uM,0
+Patch Clamp,O=C1Cc2ccc3OCOc3c2C[N+](C)CCc2cc3OCOc3cc21,165,uM,0
+Patch Clamp,Cc4nnc(c3ccc(CN2C[C@H](N)C(C(=O)N1CCC[C@H]1C#N)C2)cc3)o4,165,uM,0
+Patch Clamp,O=C1OC(CC)C(O)(C)C(O)C(C)C(=O)C(C)CC(O)(C)C(OC2OC(C)CC([N+](C)C)C2O)C(C)C(OC2OC(C)C(O)C(OC)(C)C2)C1C,152.7,uM,0
+Patch Clamp,COCCOC#Cc5cc(c3n[nH]c4c2ccc(Cn1cncn1)cc2Cc34)cs5,150,uM,0
+Patch Clamp,O=C1O[C@H](CC)[C@](O)(C)[C@H](O)[C@@H](C)C(=O)[C@H](C)C[C@](O)(C)[C@H](O[C@H](O[C@H](C)C[C@H]([N+]C)[C@@H](O)2)2)[C@@H](C)[C@H](O[C@H](O[C@@H](C)[C@H](O)[C@@](OC)(C)C2)2)[C@@H](C)1,147,uM,0
+Patch Clamp,CC[C@H]3OC(=O)[C@H](C)[C@@H](OC1CC(C)(OC)C(O)C(C)O1)[C@H](C)[C@@H](OC2OC(C)CC(NC)C2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]3(C)O,147,uM,0
+Patch Clamp,[H][N -]([H])([H])[C@H](C(=O)C1CC[C@H](F)C1)[C@@H](C)C3CCC(N(C)C(=O)C2CC2)CC3,143,uM,0
+Patch Clamp,CCN(CC)CCNC(=O)c1ccc(N)cc1,139,uM,0
+Patch Clamp, c1(C(NCCN(CC)CC)=O)ccc(N)cc1,138.038,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@H](CC[N+](CC1)CCN2CCNC2=O)1)[C@H](CCCCC1)1,137,uM,0
+Patch Clamp,COc3ccc2c(=O)n(C[C@H](O)CO)c(C#N)c(c1ccccc1)c2c3,135,uM,0
+Patch Clamp,Clc1ccc2Nc3ccccc3[C@H](N(O)c2c1)[N+]1CC[N+](C)CC1,133.3,uM,0
+Patch Clamp,Clc1ccc2Nc3ccccc3[C@H](N(O)c2c1)[N+]1CC[N+](C)CC1,133.3,uM,0
+Patch Clamp,O=C1NC(=O)C(CC)(C(=O)N1)C(C)CCC,131.82,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@H](CC[N+](CC1)CCN2CCNC2=O)1)c1ccc(cc1)CCOC,131,uM,0
+Patch Clamp,O=C(O)c(c1=O)cn(C2CC2)c(c13)c(OC)c(c(F)c3)N(C[C@@H]4C)CCN4,130,uM,0
+Patch Clamp, c1(F)cc2c(c(cn(C3CC3)c2c(OC)c1N1C[C@@H]2[C@H](C1)CCCN2)C(O)=O)=O,128.825,uM,0
+Patch Clamp, n1(c2c(cc(c(c2OC)N2C[C@@H](C)NCC2)F)c(c(c1)C(=O)O)=O)C1CC1,128.825,uM,0
+Patch Clamp,CCN(CC)CCNC(=O)c1ccc(N)cc1,125.893,uM,0
+Patch Clamp,O=[N+]([O-])c1cccc(c1)C1C(=C(NC(C)=C1C(=O)OCC)C)C(=O)OC,114.81,uM,0
+Patch Clamp,COc1cc2nc(nc(N)c2cc1OC)N3CCN(CC3)C(=O)C4CCCO4,113.2,uM,0
+Patch Clamp,O=C1C=CC2(C)CC(O)C3C(OC(=O)C3C)C2=C1C,110,uM,0
+Patch Clamp,C=1C(=O)C(C)=C2[C@@](C1)(C[C@@H]([C@H]1[C@@H](C(O[C@H]21)=O)C)O)C,109.6,uM,0
+Patch Clamp,O=C(O)COCCN3CCN(C(c1ccccc1)c2ccc(Cl)cc2)CC3,108,uM,0
+Patch Clamp,[S+2]([O-])([O-])(N)c1cc(ccc1OC)CC([N+]CCOc1ccccc1OCC)C,104.8,uM,0
+Patch Clamp,CC12CCC3C(C=CC4=CC(=O)CCC34C)C2CCC1(O)CCC(=O)O,104.713,uM,0
+Patch Clamp,O=C1C=C2C=CC3C4CCC(O)(CCC(=O)[O-])C4(C)CCC3C2(C)CC1,104,uM,0
+Patch Clamp,O=CCC1CC(C)C(O)C=CC=CCC(OC(=O)CC(OC(=O)C)C(OC)C1OC1OC(C)C(OC2OC(C)C(OC(=O)CC(C)C)C(O)(C)C2)C([N+](C)C)C1O)C,102,uM,0
+Planar Patch Clamp,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,100,uM,0
+Patch Clamp,O=C1N2C(Cc3c4ccccc4[nH]c3C2c2ccc3OCOc3c2)C(=O)N(C)C1,100,uM,0
+Patch Clamp,CCOc1ccccc1OCCNC(C)Cc2ccc(OC)c(c2)S(=O)(=O)N,100,uM,0
+Patch Clamp,CCCc3nn(C)c4c(=O)[nH]c(c2cc(S(=O)(=O)N1CCN(C)CC1)ccc2OCC)nc34,100,uM,0
+Patch Clamp,C[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N2CCC[C@H]2C(=O)O,100,uM,0
+Patch Clamp,O=C(NCCN1CCCC1)c5ccc(CN4CCC(NC(=O)c3cc(=O)c2ccc(F)cc2o3)CC4)cc5F,100,uM,0
+Patch Clamp,O=C(Cn4cc(Nc2ncnc3cc(OCCCN1CCC[C@@H]1CO)ccc23)cn4)Nc5cccc(F)c5F,100,uM,0
+Patch Clamp,O=C(Cn4cc(Nc2ncnc3cc(OCCCN1CCC[C@@H]1COP(=O)(O)O)ccc23)cn4)Nc5cccc(F)c5F,100,uM,0
+Patch Clamp,c1cc2c(cc1)Cc1c(N3C(=NC[C@@H]23)N)cccc1,100,uM,0
+Patch Clamp,O=C(O)c4ccc(C2=CC1(CCNCC1)Oc3ccccc23)cc4,100,uM,0
+Patch Clamp,c1(c2nc3c(n(C)nc3CCC)c([nH]2)=O)c(ccc(c1)S(N1CCN(C)CC1)(=O)=O)OCC,100,uM,0
+Patch Clamp,CCCc3nn(C)c4c(=O)[nH]c(c2cc(S(=O)(=O)N1CCN(C)CC1)ccc2OCC)nc34,95,uM,0
+Patch Clamp,O=C(N)C(CC[N+](C(C)C)C(C)C)(c1[nH0]cccc1)c1ccccc1,92,uM,0
+Patch Clamp, c1([C@@](c2ccccn2)(CCN(C(C)C)C(C)C)C(N)=O)ccccc1,91.2011,uM,0
+Patch Clamp,O=C(OCC([N+](C)C)(CC)c1ccccc1)c1cc(OC)c(OC)c(OC)c1,89.12,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@H](CC[N+](CC1)CCN2CCNC2=O)1)c1ccccc1,88,uM,0
+Patch Clamp,O=C(NCCCN(C)c1[nH0]c(C)c2cc(OC)c(OC)cc2[nH0]1)C1OCCC1,83.3,uM,0
+Planar Patch Clamp,C1COCCN1CCNC(=O)C2=CC=C(C=C2)Cl,79.4328,uM,0
+Planar Patch Clamp,CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C,79.4328,uM,0
+Patch Clamp,OC(=O)c1ccc(cc1)n2cc(C3CCN(CCN4CCNC4=O)CC3)c5cc(Cl)ccc25,79.4328,uM,0
+Patch Clamp,O=C(Nc1cccc(C(F)(F)F)c1)Nc2ccc(Br)cc2c3nnn[nH]3,79.4,uM,0
+Patch Clamp,CCN(CC)C(=O)c4ccc(C2=CC1(CCNCC1)Oc3cccc(O)c23)cc4,78,uM,0
+Patch Clamp,NCc5ccc(F)c(C4CCN(C(=O)c3cc(C(=O)O)cc(c2nc(c1cccs1)no2)c3)CC4)c5,76.8,uM,0
+Patch Clamp,COc3ccc2c(=O)n(C[C@@H](O)CO)c(C#N)c(c1ccccc1)c2c3,76,uM,0
+Patch Clamp,CCOC(=O)C1(CCN(C)CC1)c2ccccc2,75.8578,uM,0
+Patch Clamp,N1CCN(C1=O)CCN(CC2)CC[C@@H]2c3cn(c(c34)ccc(Cl)c4)-c(cc5)ccc5COO,75,uM,0
+Patch Clamp,COc4c(N2CC1CCCNC1C2)c(F)cc5c(=O)c(C(=O)O)cn(C3CC3)c45,74.7,uM,0
+Patch Clamp,c1(Cl)cc(c(OC)cc1)C(NCCc1ccc(cc1)S(NC(NC1CCCCC1)=O)(=O)=O)=O,74.131,uM,0
+Patch Clamp,C1C(C)=C(CC)C(=O)N1C(NCCc1ccc(S(NC(N[C@@H]2CC[C@H](CC2)C)=O)(=O)=O)cc1)=O,74.131,uM,0
+Patch Clamp,[S+2]([O-])([O-])([N-]C(=O)NC1CCC(C)CC1)c1ccc(cc1)CCNC(=O)N1CC(C)=C(CC)C1=O,74.13,uM,0
+Patch Clamp,[S+2]([O-])([O-])(Nc1ccc(cc1)C(O)C[N+]C(C)C)C,74.13,uM,0
+Patch Clamp,c1c(Cl)ccc(OC)c1C(=O)NCCc2ccc(cc2)S(=O)(=O)NC(=O)NC3CCCCC3,74,uM,0
+Patch Clamp,O=C1OC(CC)C(O)(C)C(O)C(C)C(=O)C(C)CC(O)(C)C(OC2OC(C)CC([N+](C)C)C2O)C(C)C(OC2OC(C)C(O)C(OC)(C)C2)C1C,72.2,uM,0
+Patch Clamp,O=C1OC(CC)C(O)(C)C(O)C(C)C(=O)C(C)CC(O)(C)C(OC2OC(C)CC([N+](C)C)C2O)C(C)C(OC2OC(C)C(O)C(OC)(C)C2)C1C,72,uM,0
+Patch Clamp,c1cc2S[C@H]([C@@H](OC(C)=O)C(N(c2cc1)CCN(C)C)=O)c1ccc(cc1)OC,67.608,uM,0
+Patch Clamp,O1COc2cc3c4[nH0+](cc5c(ccc(OC)c5OC)c4)CCc3cc12,66.069,uM,0
+Patch Clamp,c12c3c(cc4OCOc4c3)CC[n+]1cc1c(c(OC)ccc1c2)OC,66.069,uM,0
+Patch Clamp,c1(c(c2c(c(F)c(cc2n(c1)C1CC1)N1C[C@@H](C)NCC1)C)=O)C(=O)O,66.069,uM,0
+Patch Clamp,CN(C)CCCOc4ccc(CN3CCC(NC(=O)c2cc(=O)c1ccc(F)cc1o2)CC3)cc4F,65,uM,0
+Patch Clamp,CS(=O)(=O)N6CCN(Cc5cc4nc(c1cccc2[nH]ncc12)nc(N3CCOCC3)c4s5)CC6,64,uM,0
+Patch Clamp,CC(C)CN1CC2CN(CC(C)C)CC(C1)C23CCCCC3,62.7,uM,0
+Patch Clamp,COc3ccc2c(=O)n(CCO)c(C#N)c(c1cccc(F)c1)c2c3,62,uM,0
+Patch Clamp,S1C(=CNC1C(O)(C(F)(F)F)C(F)(F)F)C(c1cc[nH0+]([O-])cc1)c1ccc(OC(F)F)c(OC(C)(C)C)c1,61.4,uM,0
+Patch Clamp,CCN(CC)C(=O)c4ccc(C2=CC1(CCNCC1)Oc3cc(O)ccc23)cc4,60,uM,0
+Patch Clamp,CC[C@@H]3OC(=O)[C@H](C)[C@@H](OC1C[C@](C)(OC)C(O)[C@@H](C)O1)[C@H](C)[C@@H](O[C@H]2OC(C)C[C@@H](N(C)C)C2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@@H](C)[C@@H](O)[C@]3(C)O (,59,uM,0
+Patch Clamp,O([C@H]1[C@@](C[C@H](C([C@@H]([C@H]([C@](C)(O)[C@H](OC([C@@H]([C@H]([C@@H]1C)O[C@@H]1C[C@@]([C@@H](O)[C@@H](O1)C)(OC)C)C)=O)CC)O)C)=O)C)(OC)C)[C@@H]1[C@@H]([C@@H](C[C@@H](O1)C)N(C)C)O,58.8844,uM,0
+Patch Clamp,COc4c(N2CC1CCCNC1C2)c(F)cc5c(=O)c(C(=O)O)cn(C3CC3)c45,58.5,uM,0
+Patch Clamp,S1C(=CNC1C(O)(C)C)[C@H](c1cc[nH0+]([O-])cc1)c1ccc(OC(F)F)c(OC(C)(C)C)c1,58.4,uM,0
+Patch Clamp,CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C3N(CCCCn4cnc(c4)c5cccnc5)C(=O)OC31C)OC,56.2341,uM,0
+Patch Clamp,n1(c2c(cc(c(c2OC)N2C[C@@H](C)NCC2)F)c(c(c1)C(=O)O)=O)C1CC1,56.2341,uM,0
+Patch Clamp,CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C3N(CCCCn4cnc(c4)c5cccnc5)C(=O)OC31C)OC,56.2,uM,0
+Patch Clamp,FC(F)Oc1ccc(cc1OC(C)C)[C@H](C1=CNC(C=C1)C(O)(C)C)C=1C=NC(=O)CC=1,55.9,uM,0
+Patch Clamp,CN6CCN(Cc1ccc4c(c1)Cc5c(c3csc(C#CCOc2ccccc2)c3)n[nH]c45)C(=O)C6,53,uM,0
+Planar Patch Clamp,CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4Cl,50.1187,uM,0
+Patch Clamp, c1(c(c2c(c(F)c(cc2n(c1)C1CC1)N1C[C@@H](C)NCC1)C)=O)C(=O)O,50.1187,uM,0
+Patch Clamp, C1(c2c(cccc2)[N+](=O)[O-])C(=C(NC(=C1C(OC)=O)C)C)C(OC)=O,50.1187,uM,0
+Patch Clamp, C1[C@@H](C)N(C)C(\C1(c1ccccc1)c1ccccc1)=C\C,50.1187,uM,0
+Patch Clamp,S([P+](Sc1ccccc1)([O-])OCC)c1ccccc1,50,uM,0
+Patch Clamp,[S+2]([O-])([O-])(Nc1ccc(cc1)C(=O)NCC[N+](CC)CC)C,50,uM,0
+Patch Clamp,O=C1N(CCC1[N+]Cc1[nH0](c[nH0]c1)Cc1ccc(C#N)cc1)C(=O)c1ccc[nH0]c1[O-],50,uM,0
+Patch Clamp,O=C1N(CCC1[N+]Cc1[nH0](c[nH0]c1)Cc1ccc(C#N)cc1)C(=O)c1ccc[nH0]c1N,50,uM,0
+Patch Clamp,C[C@H]1CN(CCN1)c2cc3c(-c(C)c2F)c(=O)c(cn3C4CC4)C(O)=O,50,uM,0
+Patch Clamp,O=[N+]([O-])c1ccccc1C1C(=C(NC(C)=C1C(=O)OC)C)C(=O)OC,50,uM,0
+Patch Clamp,CCN(CC)CCNC(=O)c1ccc(N)cc1,50,uM,0
+Patch Clamp,CCN(CC)C(=O)c4ccc(C2=CC1(CCN(C(C)=O)CC1)Oc3ccccc23)cc4,47.44,uM,0
+Patch Clamp,O([C@H]1[C@@](C[C@H](C([C@@H]([C@H]([C@](C)(O)[C@H](OC([C@@H]([C@H]([C@@H]1C)O[C@@H]1C[C@@]([C@@H](O)[C@@H](O1)C)(OC)C)C)=O)CC)O)C)=O)C)(OC)C)[C@@H]1[C@@H]([C@@H](C[C@@H](O1)C)N(C)C)O,45.708,uM,0
+Patch Clamp,FC(F)Oc1ccc(cc1OC(C)C)[C@@H](C1=CNC(C=C1)C(O)(C)C)c1c[nH0+]([O-])ccc1,44.7,uM,0
+Patch Clamp,c12c(c(n(CCN3CCC(C(c4ccc(F)cc4)=O)CC3)c([nH]1)=O)=O)cccc2,44.6683,uM,0
+Patch Clamp,COc4ccc(CC(=O)Nc1cc2c(cc1N(=O)=O)OC(C)(C)[C@H](O)[C@H]2NC3CC3)cc4,44,uM,0
+Patch Clamp,Cc1cccc(C)c1NC(=O)C2CCCCN2CC3CC3,43.7,uM,0
+Patch Clamp,[H][C@@]1(O)C4[C@@H]5C[C@]13c2ccccc2N(C)C3[C@]6([H])C[C@]4([H])[C@]([H])(CC)[C@@H](O)N56,42.3,uM,0
+Patch Clamp,FC(F)Oc1ccc(cc1OC(C)C)[C@H](C1=CNC(C=C1)C(O)(C)C)c1c[nH0+]([O-])ccc1,42.2,uM,0
+Patch Clamp,O=C(NC3CCN(Cc2ccc(OCCCN1CCCCC1)c(F)c2)CC3)c5cc(=O)c4ccc(F)cc4o5,42,uM,0
+Patch Clamp,FC(F)Oc1ccc(cc1OC(C)C)[C@H](C1=CNC(C=C1)C(O)(C)C)c1cc[nH0+]([O-])cc1,41.5,uM,0
+Patch Clamp,[H][C@@]13CNC[C@@H](C)N1c2nc(Cl)ccc2C3,40,uM,0
+Planar Patch Clamp,CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C,39.8107,uM,0
+Planar Patch Clamp,CCN(CC)CCOC(=O)C1=CC=C(C=C1)N,39.8107,uM,0
+Patch Clamp,c1(F)cc2c(c(cn(C3CC3)c2c(OC)c1N1C[C@@H]2[C@H](C1)CCCN2)C(O)=O)=O,39.2,uM,0
+Patch Clamp,S1C(=CNC1C(O)(C(F)(F)F)C(F)(F)F)C(c1c[nH0+]([O-])ccc1)c1ccc(OC(F)F)c(OC(C)C)c1,39,uM,0
+Patch Clamp,S1C(=CNC1C(O)(C(F)(F)F)C(F)(F)F)[C@H](c1c[nH0+]([O-])ccc1)c1ccc(OC(F)F)c(OC(C)C)c1,38.1,uM,0
+Patch Clamp,CC[C@@H]3OC(=O)[C@H](C)[C@@H](OC1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@H](C)[C@@H](OC2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=NOCOCCOC)[C@@H](C)[C@@H](O)[C@]3(C)O ,36.5,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@H](CC[N+](CC1)CCN2CCNC2=O)1)c1ccc(cc1)COC,36,uM,0
+Patch Clamp,c1(c(c2c(c(F)c(cc2n(c1)C1CC1)N1C[C@@H](C)NCC1)C)=O)C(=O)O,34.2,uM,0
+Patch Clamp,CCCCN1CCCCC1C(=O)Nc2c(C)cccc2C,34,uM,0
+Patch Clamp,CN(C(=O)c2ccc(c1ccc(F)cc1)nc2)[C@H]5CCc4cc(CN3CCNC(=O)C3)ccc4C5,34,uM,0
+Patch Clamp,O=C(NC3CCN(Cc2ccc(OCCCN1CCOCC1)c(F)c2)CC3)c5cc(=O)c4ccc(F)cc4o5,34,uM,0
+Patch Clamp,COc3ccc2c(=O)n(CC(O)CO)c(C#N)c(c1cccc(F)c1)c2c3,33.5,uM,0
+Patch Clamp,CCCc3nn(C)c4c(=O)[nH]c(c2cc(S(=O)(=O)N1CCN(C)CC1)ccc2OCC)nc34,33.3,uM,0
+Planar Patch Clamp,C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,31.6228,uM,0
+Planar Patch Clamp,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,31.6228,uM,0
+Patch Clamp, N1([C@@H](c2ccc(Cl)cc2)c2ccccc2)CCN(CCOCC(O)=O)CC1,30.1995,uM,0
+Patch Clamp,Clc1ccc(cc1)C([N+]1CC[N+](CC1)CCOCC(=O)[O-])c1ccccc1,30,uM,0
+Patch Clamp,O(C)c1ccc(cc1OC)C(C#N)(CCC[N+]C)C(C)C,30,uM,0
+Patch Clamp,O(C)c1ccc(cc1OC)C(C#N)(CCC[N+])C(C)C,30,uM,0
+Patch Clamp,[H]N(C(=O)c2ccc(c1ccc(OC(F)(F)F)cc1)o2)c3cccc(C)c3,30,uM,0
+Patch Clamp,[H]N(C(=NC#N)c2ccc(c1ccc(Cl)cc1)o2)c3cccc(C)c3,30,uM,0
+Patch Clamp,[H]N(C(=O)c2ccc(c1ccc(Cl)cc1)o2)c3cc(OC)cc(OC)c3,30,uM,0
+Patch Clamp,[H]N(C(=O)c2ccc(c1ccc(Cl)cc1)o2)c3cc(C)ccn3,30,uM,0
+Patch Clamp,CN(C)Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccccn1)cc2)CCc3c4,30,uM,0
+Patch Clamp,CN(C(=O)c2ccc(c1ccccn1)cc2)[C@H]5CCc4cc(CN3CCS(=O)(=O)CC3)ccc4C5,30,uM,0
+Patch Clamp,O=C(O)COCCN3CCN(C(c1ccccc1)c2ccc(Cl)cc2)CC3,30,uM,0
+Patch Clamp,CCc3c(C)[nH]c2CCCC(=NOC(=O)Nc1ccccc1)c23,30,uM,0
+Patch Clamp,CCc2c(CC)n(C)c3CCCC(=NOC(=O)Nc1ccccc1)c23,30,uM,0
+Patch Clamp,[H][C@@]14CNC[C@@H](C)N1c3nc(COCC2CC2)ccc3C4,30,uM,0
+Patch Clamp,NCc5cccc(C4CCN(C(=O)c3cc(C(N)=O)cc(c2nc(c1cccs1)no2)c3)CC4)c5,30,uM,0
+Patch Clamp,O(CC[N+](C)C)C(c1ccccc1)c1ccccc1,30,uM,0
+Patch Clamp,[H][C@]1(CCCCN1)C(=O)N2CCN(CC2)c3nc(NCc4ccc(Cl)cc4Cl)c5cccnc5n3,30,uM,0
+Patch Clamp,CNCCCC24CCC(c1ccccc12)c3ccccc34,29.2,uM,0
+Patch Clamp,[H][C@H]1CC[C@@H](C#N)C1C(=O)C3CN(Cc2cc(C)c(C#N)c(C)c2)C[C@@H]3N,28.9,uM,0
+Patch Clamp,O(CC[N+](C)C)C(c1ccccc1)c1ccccc1,27,uM,0
+Patch Clamp, C(c1ccccc1)(c1ccccc1)OCCN(C)C,26.9153,uM,0
+Patch Clamp,CCCc1cn(c(c12)ccc(Cl)c2)-c3ccc(F)cc3,26,uM,0
+Patch Clamp,FC(F)Oc1ccc(cc1OC(F)F)[C@@H](C1=CNC(C=C1)C(O)(C)C)c1cc[nH0+]([O-])cc1,25.4,uM,0
+Planar Patch Clamp,CC1=CC=CC=C1S(=O)(=O)NC(=O)C2=CC(=C(C=C2)CC3=CN(C4=C3C=C(C=C4)NC(=O)OC5CCCC5)C)OC,25.1189,uM,0
+Planar Patch Clamp,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O,25.1189,uM,0
+Patch Clamp,CCCc1cn(c2ccc(F)cc2)c3ccc(Cl)cc13,25.1189,uM,0
+Patch Clamp,CC(=O)SC1CC2=CC(=O)CCC2(C)C3CCC4(C)C(CCC54CCC(=O)O5)C13,25.1189,uM,0
+Patch Clamp,O=C(OCC#CC[N+](CC)CC)C(O)(c1ccccc1)C1CCCCC1,25.11,uM,0
+Patch Clamp,CC(=O)N5CCN(Cc4ccc3CC([N@]2CCN(CCc1ccc(F)cc1)CC2=O)CCc3c4)CC5,25,uM,0
+Patch Clamp,CN(C)C(=O)C(CO)N(C)Cc4ccc3CC([N@]2CCN(CCc1ccc(F)cc1)CC2=O)CCc3c4,25,uM,0
+Patch Clamp,CCN1CCN(CC1)c2ccc(cn2)C(C)(C)NC(=O)c3cc4[nH]c5ccccc5c(=O)c4cc3F,25,uM,0
+Patch Clamp,C[C@@H](Oc4cccc5ncnc(Nc3ccc1c(cnn1c2ccccn2)c3)c45)C(=O)N(C)C,25,uM,0
+Patch Clamp,COc1cc(N)c(Cl)cc1C(=O)N[C@@H]4CCN(CCCCCC(=O)O[C@H]2CN3CCC2CC3)C[C@@H]4OC,24.521,uM,0
+Patch Clamp,[H]N(C(=O)c2ccc(c1ccc(Cl)cc1)o2)c3cccc(C)c3,24,uM,0
+Patch Clamp,O=C2CN(CCc1ccc(F)cc1)CCN2C5CCc4cc(CN3CCS(=O)(=O)CC3)ccc4C5,24,uM,0
+Patch Clamp,O=C2NC[C@@H](c1ccc(F)cc1)C25CCN([C@@H]3COCC[C@@]3(O)c4ccccc4)CC5,24,uM,0
+Patch Clamp,c12n(C3CC3)cc(c(c2c(c(F)c(c1F)N1C[C@@H](N[C@@H](C1)C)C)N)=O)C(O)=O,24,uM,0
+Patch Clamp,Fc1ccc([nH0]2cc(c3ccccc23)[C@H](CC[N+](CC2)CCN3CCNC3=O)2)cc1,23.5,uM,0
+Patch Clamp,[N+]=1CCNC=1C1CC1(c1ccccc1)c1ccccc1,23,uM,0
+Patch Clamp,O=C(O)C(C)(C)c1ccc(cc1)[C@@H](O)CCCN(CC2)CCC2C(O)(c3ccccc3)c4ccccc4,23,uM,0
+Patch Clamp,CC(=O)SC1CC2=CC(=O)CCC2(C)C3CCC4(C)C(CCC54CCC(=O)O5)C13,23,uM,0
+Patch Clamp,C[C@@H](Oc4cccc5ncnc(Nc3ccc1c(cnn1Cc2nccs2)c3)c45)C(=O)N6CCOCC6,23,uM,0
+Patch Clamp,FC(F)Oc1ccc(cc1OC(F)F)[C@H](C1=CNC(C=C1)C(O)(C)C)c1cc[nH0+]([O-])cc1,22.7,uM,0
+Patch Clamp,Clc1ccc2Sc3ccccc3N(CCC[N+]3CC[N+](C)CC3)c2c1,22.6,uM,0
+Patch Clamp,FC(F)Oc1ccc(cc1OC1CCC1)C(C1=CNC(C=C1)C(O)(C)C)c1cc[nH0+](O)cc1,22.4,uM,0
+Patch Clamp,CN6CCN(Cc5ccc4cc(n3cnc2cc(c1ccc(Cl)cc1)sc2c3=O)ccc4n5)CC6,21.8776,uM,0
+Patch Clamp,CN(C)CCCN1c2ccccc2Sc3ccc(Cl)cc13,21.6,uM,0
+Patch Clamp,Clc1ccc(cc1)C(CC[N+](C)C)c1[nH0]cccc1,21,uM,0
+Patch Clamp,S1C(=CNC1C(O)(C(F)(F)F)C(F)(F)F)C(c1cc[nH0+]([O-])cc1)c1ccc(OC(F)F)c(OC(C)C)c1,21,uM,0
+Patch Clamp,O=C1N(CCC1[N+]Cc1[nH0](c[nH0]c1)Cc1ccc(C#N)cc1)C(=O)c1ccc[nH0]c1OC,21,uM,0
+Patch Clamp,CCc3c(C)[nH]c2CCCC(=NNC(=O)Nc1ccccc1)c23,21,uM,0
+Patch Clamp,[H][C@@]13CNC[C@@H](C)N1c2nc(C)ccc2C3 ,21,uM,0
+Patch Clamp,Nc2nnc(c1cccc(Cl)c1Cl)c(N)n2,21,uM,0
+Patch Clamp,O=C4CCc3cc(C(O)CN2CCC(O)(c1cccc(F)c1)CC2)ccc3N4,21,uM,0
+Patch Clamp, c1([C@@H](c2ccccn2)CCN(C)C)ccc(Cl)cc1,20.893,uM,0
+Patch Clamp,C1CC2(CCCN2C1)CC(Nc1c(C)cccc1C)=O,20.417,uM,0
+Patch Clamp,O=C(Nc1c(C)cccc1C)CC12[N+](CCC1)CCC2,20.4,uM,0
+Patch Clamp,O=C(Nc1c(C)cccc1C)C1[N+](CCCC1)CC1CC1,20,uM,0
+Patch Clamp,CN(C)Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccccc1)cn2)CCc3c4,20,uM,0
+Patch Clamp,CC(=O)N5CCN(Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccccn1)cc2)CCc3c4)CC5,20,uM,0
+Patch Clamp,Cc4cc3c(F)c(Oc1ncnn2cc(OCCCS(C)(=O)=O)c(C)c12)ccc3[nH]4,20,uM,0
+Planar Patch Clamp,CC1=CC2=C(NC3=CC=CC=C3N=C2S1)N4CCN(CC4)C,19.9526,uM,0
+Patch Clamp,Cc1cccc(C)c1NC(=O)CC23CCCN3CCC2,19.9526,uM,0
+Patch Clamp,COc1cc2nc(nc(N)c2cc1OC)N3CCN(CC3)C(=O)C4CCCO4,19.9526,uM,0
+Patch Clamp,CCN(CC)C(=O)c4ccc(C2=CC1(CCNCC1)Oc3ccc(O)cc23)cc4,19.75,uM,0
+Patch Clamp,[H][C@H]1CC[C@@H](C#N)C1C(=O)C3CN(Cc2ccc(C#N)c(C)c2)C[C@@H]3N,19.6,uM,0
+Patch Clamp,CCN(CC)C(=O)c4ccc(C2=CC1(CCNCC1)Oc3c(O)cccc23)cc4,18.31,uM,0
+Patch Clamp,O=C(N1CCN(CC1)c1[nH0]c(N)c2cc(OC)c(OC)cc2[nH0]1)C1Oc2ccccc2OC1,18.2,uM,0
+Patch Clamp, c12n(C3CC3)cc(c(c2c(c(F)c(c1F)N1C[C@@H](N[C@@H](C1)C)C)N)=O)C(O)=O,18.197,uM,0
+Patch Clamp,Cc4cc3c(F)c(Oc1ncnn2cc(OC[C@@H](C)O)c(C)c12)ccc3[nH]4,18,uM,0
+Patch Clamp,COC[C@@H](O)COc4cn3ncnc(Oc2ccc1[nH]c(C)cc1c2F)c3c4C,18,uM,0
+Patch Clamp,O=C(O)c(c1=O)cn(C2CC2)c(c13)c(F)c(c(F)c3N)C(C[C@H]4C)C[C@@H](C)N4,18,uM,0
+Patch Clamp,COc1cc2nc(nc(N)c2cc1OC)N3CCN(CC3)C(=O)C4CCCO4,17.7,uM,0
+Patch Clamp, c1cc2S[C@H]([C@@H](OC(C)=O)C(N(c2cc1)CCN(C)C)=O)c1ccc(cc1)OC,17.378,uM,0
+Patch Clamp,CN(C)CCN1C(=O)[C@@H](OC(=O)C)[C@H](c2ccc(cc2)OC)Sc(c13)cccc3,17.3,uM,0
+Patch Clamp,NCc5ccc(F)c(C4CCN(C(=O)c3cc(C(N)=O)cc(c2nc(c1cccs1)no2)c3)CC4)c5,17.1,uM,0
+Patch Clamp,O=C(NC1CC1)c4cc(NCc3cnc(Nc2ccccn2)s3)c(F)cc4F,16.6,uM,0
+Patch Clamp,COc3ccc2c(=O)n(C[C@@H](O)CO)c(C#N)c(c1cccc(C(F)(F)F)c1)c2c3,16,uM,0
+Planar Patch Clamp,COCCCC/C(=N\OCCN)/C1=CC=C(C=C1)C(F)(F)F,15.8489,uM,0
+Planar Patch Clamp,CC(C)CC(C1(CCC1)C2=CC=C(C=C2)Cl)N(C)C,15.8489,uM,0
+Patch Clamp,CCC(O)(CC)c1cn(c2ccc(F)cc2)c3ccc(Cl)cc13,15.8489,uM,0
+Patch Clamp,CCC(O)(CC)c1cn(c(c12)ccc(Cl)c2)-c3ccc(F)cc3,15.7,uM,0
+Patch Clamp,CC(C)(C)NC(=O)[C@@H]2CC1CCCCC1CN2C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](CC(N)=O)NC(=O)c5ccc4ccccc4n5,15.3,uM,0
+Patch Clamp,CC(C)(C)NC(=O)[C@@H]2CC1CCCCC1CN2C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](CC(N)=O)NC(=O)c5ccc4ccccc4n5,15.3,uM,0
+Patch Clamp,O=C(Nc1c(C)cccc1C)C[N+]1CC[N+](CC1)CC(O)COc1ccccc1OC,14.6,uM,0
+Patch Clamp,s1c2Nc3ccccc3N=C(N3CC[N+]CC3)c2cc1C,14.2,uM,0
+Patch Clamp,S(CC)c1[nH0]cccc1C(=O)N1CCC([N+]Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,14,uM,0
+Patch Clamp,CN(C)Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccc(Cl)cc1)cn2)CCc3c4,14,uM,0
+Patch Clamp,CC(=O)N5CCN(Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccc(F)cc1)cn2)CCc3c4)CC5,14,uM,0
+Patch Clamp,COc3ccc2c(=O)n(C)c(C#N)c(c1ccccc1)c2c3,14,uM,0
+Patch Clamp,O=C2NCC(c1ccccc1)C25CCN(C4(c3ccccc3)CCCOC4)CC5,14,uM,0
+Patch Clamp,Cc3n[nH]c4ccc(c2cncc(OC[C@@H](N)Cc1ccccc1)c2)cc34,13.4,uM,0
+Patch Clamp,CCN(CC)Cc4ccc3CC([N@]2CCN(CCc1cccs1)CC2=O)CCc3c4,13.2,uM,0
+Patch Clamp,CN(C)CCCn5cc(c3c(c1c[nH]c2ccccc12)c(=O)[nH]c3=O)c4ccccc45,13.2,uM,0
+Patch Clamp,O=C(O)C(C)(C)c1ccc(cc1)[C@@H](O)CCCN(CC2)CCC2C(O)(c3ccccc3)c4ccccc4,13.1,uM,0
+Patch Clamp,CS(=O)(=O)N5CCN(Cc4ccc3CC([N@]2CCN(CCc1ccc(F)cc1)CC2=O)CCc3c4)CC5,13,uM,0
+Patch Clamp,O=C4CCc3cc(C(O)CN2CCC(O)(c1cccc(F)c1)CC2)ccc3N4,13,uM,0
+Patch Clamp,CNc4noc5c(c3ccc2c(N1CCOC[C@@H]1C)nncc2c3)c(C)ccc45,13,uM,0
+Patch Clamp,[S+2]([O-])([O-])(N1CC[N+](CC1)CC)c1ccc(OCC)c(c1)C1=NC(=O)c2[nH0](N1)c([nH0]c2C)CCC,12.8,uM,0
+Patch Clamp,CCCc3nc(C)c4c(=O)[nH]c(c2cc(S(=O)(=O)N1CCN(CC)CC1)ccc2OCC)nn34,12.8,uM,0
+Patch Clamp,c12n(C3CC3)cc(c(c2c(c(F)c(c1F)N1C[C@@H](N[C@@H](C1)C)C)N)=O)C(O)=O,12.7,uM,0
+Planar Patch Clamp,C[C@H]1CN(C[C@H](N1)C)C2=C(C3=C(C(=C2F)N)C(=O)C(=CN3C4CC4)C(=O)O)F,12.5893,uM,0
+Patch Clamp,O=C(OC1CC2CC3CC(C1)N2CC3=O)c4c[nH]c5ccccc45,12.5893,uM,0
+Patch Clamp,O=C1OC(CC(O)C1)CCC1C(C)C=CC2=CC(C)CC(OC(=O)C(C)CC)C21,12.5,uM,0
+Patch Clamp, C1C2C[C@@H]3C[C@@H](C[C@@H]1[N@@]3CC2=O)OC(c1c2c(cccc2)[nH]c1)=O,12.0226,uM,0
+Patch Clamp,O=C(OC1CC2[N+]3CC(O)C(C2)CC3C1)c1c[nH]c2ccccc21,12.02,uM,0
+Patch Clamp,s1c2Nc3ccccc3N=C(N3CC[N+](C)CC3)c2cc1CO,11.6,uM,0
+Patch Clamp,COCCOC#Cc5cc(c3n[nH]c4c2cc(Cn1cncn1)ccc2Cc34)cs5,11.6,uM,0
+Patch Clamp,[H][C@@](O)(CN2C[C@@]1([H])CCCC[C@]1([H])C[C@]2([H])C(=O)NC(C)(C)C)[C@@]([H])(CSc3ccccc3)NC(=O)c4cccc(O)c4C ,11.5,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(C[N+](C)C)c2c1)c1ccc(F)cc1,11,uM,0
+Patch Clamp,[S-]c1[nH0]cccc1C(=O)N1CCC([N+]Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,11,uM,0
+Patch Clamp,O=C2CN(CCc1ccc(F)cc1)CCN2C5CCc4cc(CN3CCOCC3)ccc4C5,11,uM,0
+Patch Clamp,O=C2NCC(c1ccccc1)C25CCN(C4(c3ccccc3)CCOCC4)CC5,11,uM,0
+Patch Clamp, c12c3c(cccc3)[nH]c1cccc2OC[C@@H](CNCCOc1c(cccc1)OC)O,10.4713,uM,0
+Patch Clamp,OC(COC1=CC=CC2=Nc3ccccc3C21)C[N+]CCOc1ccccc1OC,10.42,uM,0
+Patch Clamp,CC(C)(C)N3CCC(c1ccccc1)(c2ccccc2)CC3,10.2,uM,0
+Patch Clamp,O=C(N1CCN(CC1)c1[nH0]c(N)c2cc(OC)c(OC)cc2[nH0]1)c1occc1,10.1,uM,0
+Planar Patch Clamp,CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F,10,uM,0
+Planar Patch Clamp,C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42,10,uM,0
+Patch Clamp,OC(COc1cccc2ccccc12)C[N+]C(C)C,10,uM,0
+Patch Clamp,O=C1N(CC(C)C)c2[nH0]c[nH]c2C(=O)N1C,10,uM,0
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)C1=CC[N+](CC1)CCN1CCNC1=O)c1ccc(F)cc1,10,uM,0
+Patch Clamp,O=C1N(CCC1[N+]Cc1[nH0](c[nH0]c1)Cc1ccc(C#N)cc1)C(=O)c1ccc[nH0]c1C,10,uM,0
+Patch Clamp,CN(C)Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccc(F)cc1)nc2)CCc3c4,10,uM,0
+Patch Clamp,CN(C)C(=N)c4ccc(C(=O)Nc2ccc(Oc1ccc(C(=O)O)cc1)cc2C(=O)Nc3ccc(Cl)cn3)cc4,10,uM,0
+Patch Clamp,CN(C)C(=N)c3ccc(C(=O)Nc1ccc(CCC(=O)O)cc1C(=O)Nc2ccc(Cl)cn2)cc3,10,uM,0
+Patch Clamp,CN(C)C(=N)c3ccc(C(=O)Nc1ccc(OCC(=O)O)cc1C(=O)Nc2ccc(Cl)cn2)cc3,10,uM,0
+Patch Clamp,N=C(c3ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)cc3)N4CCCC(C(=O)O)C4,10,uM,0
+Patch Clamp,N=C(c3ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)cc3)N4CCC(C(=O)O)CC4,10,uM,0
+Patch Clamp,COc2cc(Cl)cc(C(=O)Nc1ccc(Cl)cn1)c2NC(=O)c4ccc(C(=N)N3CCC(C(=O)O)CC3)cc4F,10,uM,0
+Patch Clamp,CN(C)C(=N)c4ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)c(N3CCC(C(=O)O)CC3)c4,10,uM,0
+Patch Clamp,COc4ccc(NC(=O)c1ccc(C(=N)N(C)C)cc1N2CCC(C(=O)O)CC2)c(C(=O)Nc3ccc(Cl)cn3)c4,10,uM,0
+Patch Clamp,CN1CCN=C1c6ccc(C(=O)N4CCN(S(=O)(=O)c3cc2ccc(Cl)cc2s3)CC4CC(=O)N5CCCC(C(=O)O)C5)cc6,10,uM,0
+Patch Clamp,CN1CCN=C1c6ccc(C(=O)N4CCN(S(=O)(=O)c3cc2ccc(Cl)cc2s3)CC4CC(=O)N5CCC(C(=O)O)CC5)cc6,10,uM,0
+Patch Clamp,CN(C)C(=N)c4ccc(CN3C(=O)CN(S(=O)(=O)c2cc1cc(Cl)ccc1[nH]2)C[C@@H]3CC(=O)O)cc4,10,uM,0
+Patch Clamp,Cc5cc(C(=O)Nc2ccc(C(=N)N1CCCC1)cc2)n(c4cc3ccccc3cc4C(=O)O)n5,10,uM,0
+Patch Clamp,CC(=C(F)C(=O)N(CC(=O)O)c2ccc(c1ccccc1S(N)(=O)=O)cc2)c3ccc(C(=N)N)cc3,10,uM,0
+Patch Clamp,CC(=N)N4CCC(Oc3ccc(N(Cc2ccc1ccc(C(=N)N)cc1c2)S(=O)(=O)CC(=O)O)cc3)CC4,10,uM,0
+Patch Clamp,Cc6cc(C(=O)Nc3ccc(c1ccccc1CN2CCC(C(=O)O)CC2)cc3F)n(c5cc4ccccc4cc5F)n6,10,uM,0
+Patch Clamp,COc4ccc3c(=O)n(CC(CO)NCc1cccnc1)c(C#N)c(c2ccccc2)c3c4,10,uM,0
+Patch Clamp,COc4cc3c(Nc2ncc(CC(=O)Nc1cccc(F)c1)s2)ncnc3cc4OCCCN5CCC(CO)CC5,10,uM,0
+Patch Clamp,c1c(Cl)ccc(c12)n(cc2C(C)C)-c3ccc(F)cc3,10,uM,0
+Patch Clamp,CC(C)(C)c(c1)ccc(c12)n(cc2)-c3ccc(F)cc3,10,uM,0
+Patch Clamp,c1c(Cl)ccc(c12)n(cc2C(=O)C)-c3ccc(F)cc3,10,uM,0
+Patch Clamp,CN(C)CCC=C1c(cccc2)c2CCc(c13)cccc3,10,uM,0
+Patch Clamp,NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1,10,uM,0
+Patch Clamp,C[C@H]([C@H](O)c2ccc1NC(=O)CCc1c2)N4CCC(O)(c3cccc(F)c3)CC4,10,uM,0
+Patch Clamp,C[C@@H]([C@@H](O)c2ccc1NC(O)CCc1c2)N4CCC(O)(c3ccccc3)CC4,10,uM,0
+Patch Clamp,Oc3ccc(OCCN2CC[C@](O)(Cc1ccccc1)[C@H](O)C2)cc3,10,uM,0
+Patch Clamp,Oc3ccc(OCCN2CC[C@@](O)(Cc1ccccc1)[C@@H](O)C2)cc3,10,uM,0
+Patch Clamp,Oc3ccc(OCCN2CC[C@@](O)(Cc1ccccc1)[C@@H](O)C2)cc3,10,uM,0
+Patch Clamp,O=S(=O)(CCN2CC[C@@H](Cc1ccccc1)[C@H](O)C2)c3ccc(O)cc3,10,uM,0
+Patch Clamp,Cc3nc(N1CCCC1)nc4ccc(NC(=O)COc2ccc(Cl)cc2)cc34,10,uM,0
+Patch Clamp,[H][C@H]1CC[C@@H](C#N)C1C(=O)C3CN(C(C)c2ccc(C#N)cc2)C[C@@H]3N,10,uM,0
+Patch Clamp, C=1([C@@H](C(=C(C)NC1C)C(OC)=O)c1cc(ccc1)[N+](=O)[O-])C(OCC)=O,10,uM,0
+Patch Clamp, c1(c2c(cccc2)oc1CCCC)C(c1cc(c(OCCN(CC)CC)c(c1)I)I)=O,10,uM,0
+Patch Clamp, C1(\c2c(CCc3c1cccc3)cccc2)=C\CCN(C)C,10,uM,0
+Patch Clamp,c12n(c(n(C)c(c1[nH]cn2)=O)=O)CC(C)C,10,uM,0
+Patch Clamp,c12c(OC[C@@H](CNC(C)C)O)cccc1cccc2,9.9,uM,1
+Patch Clamp,O=C4CCc3cc(C(O)CN2CCC(O)(c1cccc(F)c1)CC2)ccc3N4,9.8,uM,1
+Patch Clamp,C(c1ccccc1)(c1ccccc1)(C[C@@H](N(C)C)C)C(CC)=O,9.77237,uM,1
+Patch Clamp,O=C(CC)C(CC([N+](C)C)C)(c1ccccc1)c1ccccc1,9.77,uM,1
+Patch Clamp,[nH]1c2ccccc2c(c1c1ccccc1)C1C[N+](C)CCC1,9.6,uM,1
+Patch Clamp,O=C(CCN1CCCCC1)Nc5ccc(CN4CCC(NC(=O)c3cc(=O)c2ccc(F)cc2o3)CC4)cc5F,9.18,uM,1
+Patch Clamp,COc2c(C(C)=O)c(O)c(OCc1ccc(Br)cc1)c3occc23,9,uM,1
+Patch Clamp,O=C1NCCCN1C(C(=O)NC(Cc1ccccc1)CC(O)C(NC(=O)COc1c(C)cccc1C)Cc1ccccc1)C(C)C,8.6,uM,1
+Patch Clamp,Cc1cccc(C)c1OCC(=O)N[C@@H](Cc2ccccc2)[C@@H](O)C[C@H](Cc3ccccc3)NC(=O)C(C(C)C)N4CCCNC4=O,8.6,uM,1
+Patch Clamp,O=C1CSC(=O)N1CCCOc5ccc(CN4CCC(NC(=O)c3cc(=O)c2ccc(F)cc2o3)CC4)cc5F,8.5,uM,1
+Patch Clamp,COc4ccc(CN3CCC(NC(=O)c2cc(=O)c1ccc(F)cc1o2)CC3)cc4F,8.3,uM,1
+Patch Clamp,s1c[nH0]cc1COC(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[C@@H](NC(=O)[C@@H](NC(=O)N(C)Cc1[nH0]c(sc1)C(C)C)C(C)C)Cc1ccccc1,8.2,uM,1
+Patch Clamp,O=C1N(CCC1[N+]Cc1[nH0](c[nH0]c1)Cc1ccc(C#N)cc1)c1cccc2[nH0]cccc21,8.2,uM,1
+Patch Clamp,Fc1ccc2c([nH]c(c2C2C[N+]CC[C@H](F)2)C(=O)OC)c1,8.2,uM,1
+Patch Clamp,[H][C@@]14CCCC[C@]1([H])CN(C[C@@H](O)[C@H](CSc2ccccc2)NC(=O)c3cccc(O)c3C)[C@H](C(=O)NC(C)(C)C)C4,8.2,uM,1
+Patch Clamp,CNCCCC24CCC(c1ccccc12)c3ccccc34,8.2,uM,1
+Patch Clamp,Clc1ccc(cc1)/C=C/1c2cc(Cl)ccc2c2c1cc(Cl)cc2C(O)C[N+](CCCC)CCCC,8.1,uM,1
+Patch Clamp,CCN(CC)Cc4ccc3CC([N@]2CCN(CCc1ccc(F)cc1)CC2=O)CCc3c4,8.1,uM,1
+Patch Clamp,CCN(CC)Cc4ccc3CC([N@]2CCN(CCc1ccc(F)cc1)CC2=O)CCc3c4,8.1,uM,1
+Planar Patch Clamp,CN[C@H]1CC[C@H](C2=CC=CC=C12)C3=CC(=C(C=C3)Cl)Cl,7.94328,uM,1
+Patch Clamp,CC(C)N(CCC(C(=O)N)(c1ccccc1)c2ccccn2)C(C)C,7.94328,uM,1
+Patch Clamp,N1(c2c(Sc3c1cccc3)ccc(c2)Cl)CCCN(C)C,7.9432,uM,1
+Patch Clamp,Cn2c(NCCN(CCO)CCCc1ccc(N(=O)=O)cc1)cc(=O)n(C)c2=O,7.9,uM,1
+Patch Clamp,CCN(CC)C(=O)c4ccc(C2=CC1(CCNCC1)Oc3ccccc23)cc4,7.9,uM,1
+Patch Clamp,S(C)c1[nH0]cccc1C(=O)N1CCC([N+]Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,7.8,uM,1
+Patch Clamp,C(C(C1CCCCC1)C2CCCCC2)C3CCCCN3,7.8,uM,1
+Patch Clamp,n1(c(nc(c1CO)Cl)CCCC)Cc1ccc(c2c(c3nnn[nH]3)cccc2)cc1,7.7624,uM,1
+Patch Clamp,Clc1[nH0]c([nH0](Cc2ccc(cc2)c2ccccc2c2[nH0][nH0][nH0-][nH0]2)c1CO)CCCC,7.76,uM,1
+Patch Clamp,Clc1cc(c(OCC)cc1N)C(=O)NCC1OCC[N+](C1)Cc1ccc(F)cc1,7.76,uM,1
+Patch Clamp,CN(C(=O)c2ccc(c1ccc(F)cc1)cc2)[C@H]5CCc4cc(CN3CCNC(=O)C3)ccc4C5,7.6,uM,1
+Patch Clamp,COC1(CCC23CC1C(C)(O)C(C)(C)C)C4Oc5c6c(CC3N(CC7CC7)CCC462)ccc5O,7.58578,uM,1
+Patch Clamp,c12[C@]34[C@@]56[C@H]([N@@](CC7CC7)CC4)Cc2ccc(c1O[C@@H]3[C@](OC)([C@H](C5)[C@](C(C)(C)C)(C)O)CC6)O,7.58578,uM,1
+Patch Clamp,Oc1ccc2CC3[N+](CCC45c2c1OC4C1(OC)CCC35CC1C(O)(C)C(C)(C)C)CC1CC1,7.58,uM,1
+Patch Clamp,O(C)c1ccc(cc1OC)Cc1[nH0]ccc2cc(OC)c(OC)cc21,7.3,uM,1
+Patch Clamp, C([C@@H]1[C@@H]2[N@@]([C@@H](C[C@@H]1OC(c1ccccc1)=O)CC2)C)(OC)=O,7.24436,uM,1
+Patch Clamp,O=C1N(CCC1[N+]Cc1[nH0](c[nH0]c1)Cc1ccc(C#N)cc1)Cc1ccccc1,7.2,uM,1
+Patch Clamp,Fc1ccc([nH0]2cc(c3ccccc23)[C@H](CC[N+](CC2)CCN3CCNC3=O)2)cc1,7,uM,1
+Patch Clamp,[nH]1c2ccccc2c(c1c1ccccc1)C1[N+](C)CCCC1,7,uM,1
+Patch Clamp,Fc1ccc2[nH]c(c3ccccc3)c(c2c1)C1C[N+]CCC1F,7,uM,1
+Patch Clamp,Clc1ccc2[nH]c(c3ccccc3)c(c2c1)C1C[N+]CCC1F,7,uM,1
+Patch Clamp,CN(C(=O)c2ccc(c1ccc(F)cc1)cc2)[C@H]5CCc4cc(CN3CCN(C(N)=O)CC3)ccc4C5,6.7,uM,1
+Patch Clamp,C(C)S(=O)(=O)[N@@](C)[C@@H]1[C@H](C(Oc2c1cc(cc2)C#N)(C)C)O,6.6069,uM,1
+Patch Clamp,S1C(NN=C([C@@H]1C)c1cc2c(N(CCC2)\C(c2cc(c(cc2)OC)OC)=N\CC)cc1)=O,6.6069,uM,1
+Patch Clamp,S1C(NN=C([C@@H]1C)c1cc2c(N(CCC2)\C(c2cc(c(cc2)OC)OC)=N\CC)cc1)=O,6.6069,uM,1
+Patch Clamp,[S+2]([O-])([O-])(C[N+]C1c2cc(ccc2OC(C)(C)C1O)C[N+])CC,6.6,uM,1
+Patch Clamp,ClC=1C=NNC(=O)C=1NCCC[N+](C)CCc1ccc(OC)c(OC)c1,6.6,uM,1
+Patch Clamp,S1C(=O)NN=C(c2ccc3N(CCCc3c2)C(=NCC)c2ccc(OC)c(OC)c2)C1C,6.6,uM,1
+Patch Clamp,CN(C)C(=N)c3ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)c(N(C)CCCC(=O)O)c3,6.6,uM,1
+Patch Clamp,[H]c4c(Nc2ncnn3cc(c1nnc(C)o1)c(C(C)C)c23)cnc5[nH]c(C)cc45,6.6,uM,1
+Patch Clamp,[H][C@@]3(c1ccccc1)C=C(c2cc(F)ccc2F)CN3C(=O)[C@@H](N)C4CC4,6.5,uM,1
+Patch Clamp,CCN(CC)C(=O)c1ccccc1C3=CC2(CCNCC2)Oc4ccccc34,6.45,uM,1
+Planar Patch Clamp,CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1,6.30957,uM,1
+Patch Clamp,OC1CN2C3CC(CC2CC1C3)OC(=O)c4c[nH]c5ccccc45,6.30957,uM,1
+Patch Clamp,Clc1ccc2[nH0](cc(c2c1)[C@H](CC[N+](CC1)CCN2CCNC2=S)1)c1ccc(F)cc1,6.2,uM,1
+Patch Clamp,s1c2Nc3ccccc3N=C(N3CC[N+](C)CC3)c2cc1C,6.013,uM,1
+Patch Clamp,s1c2Nc3ccccc3N=C(N3CC[N+](C)CC3)c2cc1C,6.01,uM,1
+Patch Clamp,Brc1c[nH0]cc(c1)C(=O)N1CCC([N+]Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,6,uM,1
+Patch Clamp,NC(=N)NOCCNC(=O)Cc1c(CC#N)ccc(NCC(F)(F)C2=CC=CC=N2)c1F,5.9,uM,1
+Patch Clamp,C1C2C[C@@H]3C[C@@H](C[C@@H]1[N@@]3CC2=O)OC(c1c2c(cccc2)[nH]c1)=O,5.8884,uM,1
+Patch Clamp,Clc1cccc(c1)C(=O)N1CCC([N+]Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,5.8,uM,1
+Patch Clamp,S1c2ccccc2N=C(N2CC[N+](CC2)CCOCCO)c2ccccc12,5.77,uM,1
+Patch Clamp,S1c2ccccc2N=C(N2CC[N+](CC2)CCOCCO)c2ccccc12,5.765,uM,1
+Patch Clamp,OCCOCCN1CCN(CC1)C2=Nc3ccccc3Sc4ccccc24,5.7544,uM,1
+Patch Clamp,S1c2ccccc2N=C(N2CC[N+](CC2)CCOCCO)c2ccccc12,5.75,uM,1
+Patch Clamp,O=C1C(C)=C(C/C=C(C)/CCCC(C)CCCC(C)CCCC(C)C)C(=O)c2ccccc12,5.75,uM,1
+Patch Clamp,[nH]1c2ccccc2c(c1c1ccccc1)C1CC[N+]CC1,5.7,uM,1
+Patch Clamp, c12c(c(cc(n2)C(F)(F)F)[C@@H]([C@H]2CCCCN2)O)cccc1C(F)(F)F,5.62341,uM,1
+Patch Clamp,CCCCNCC(O)c3cc(Cl)cc4c(=Cc1ccc(Cl)cc1)c2cc(Cl)ccc2c34,5.49,uM,1
+Patch Clamp,Clc1cc(c(OC)cc1N)C(=O)NCC[N+](CC)CC,5.4,uM,1
+Patch Clamp,COCCOCC#Cc5cc(c3n[nH]c4c2ccc(CN1CCN(C)CC1)cc2c(=O)c34)cs5,5.3,uM,1
+Patch Clamp,COc3ccc2c(=O)n(C)c(CN(C)C)c(c1ccccc1)c2c3,5.3,uM,1
+Patch Clamp,CN(C)Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccc(F)cc1)cn2)CCc3c4,5.2,uM,1
+Patch Clamp,CN(C)CCC=C2c1ccccc1COc3ccccc23,5.1,uM,1
+Patch Clamp,CN(C)Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccc(Cl)cc1)nc2)CCc3c4,5.1,uM,1
+Planar Patch Clamp,CN1CCN(CC1)C2=C3C=CC=CC3=NC4=C(N2)C=C(C=C4)Cl,5.01187,uM,1
+Planar Patch Clamp,CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1,5.01187,uM,1
+Patch Clamp,CC(O)c1cn(c2ccc(F)cc2)c3ccc(Cl)cc13,5.01187,uM,1
+Patch Clamp,COc1ccccc1N3CCN(CCCCNS(=O)(=O)c2ccc(C)cc2)CC3,5,uM,1
+Patch Clamp,CN(C)C(=O)[C@@H]1CCCN1Cc5ccc4C[C@@H](N(C)C(=O)c3ccc(c2ccc(F)cc2)cc3)CCc4c5,5,uM,1
+Patch Clamp,COc2c(O)c(C(C)=O)c(OCc1ccc(Cl)cc1)c3ccoc23,5,uM,1
+Patch Clamp,O=C1N(C)c2[nH0]c[nH0](C)c2C(=O)N1C,4.9,uM,1
+Patch Clamp,[nH]1c2ccccc2c(c1c1ccccc1)C1C[N+]CCC1,4.9,uM,1
+Patch Clamp,c12c(n(c(=O)n(c1=O)C)C)ncn2C,4.8977,uM,1
+Patch Clamp,Clc1cc(c(OCC)cc1N)C(=O)NCC1OCC[N+](C1)Cc1ccc(F)cc1,4.8,uM,1
+Patch Clamp,Cc3ccc(OC2CCN(CCS(=O)(=O)c1ccc(O)cc1)CC2)cc3,4.7,uM,1
+Patch Clamp,[H]N(C(=O)c2ccc(c1ccc(Cl)cc1)o2)c3ccc4c(c3)CCCN4C,4.6,uM,1
+Patch Clamp,CN(C)C(=N)c4ccc(C(=O)Nc2ccc(Sc1ccc(C(=O)O)cc1)cc2C(=O)Nc3ccc(Cl)cn3)cc4,4.6,uM,1
+Patch Clamp,c1c(Cl)ccc(c12)n(cc2[C@H](C)O)-c3ccc(F)cc3,4.55,uM,1
+Patch Clamp,CCC(O)COc1ccccc1C(=O)CCc2ccccc2,4.54,uM,1
+Patch Clamp,Clc1ccc2Nc3ccccc3C(=Nc2c1)N1CC[N+]CC1,4.49,uM,1
+Patch Clamp,Clc4ccc3[nH]c1ccccc1c(N2CCNCC2)nc3c4,4.49,uM,1
+Patch Clamp,C1(\c2c(cc(cc2)Cl)CCc2c1nccc2)=C1/CCNCC1,4.4668,uM,1
+Patch Clamp,Clc1ccc2c(c1)CCc1ccc[nH0]c1C2=C1CC[N+]CC1,4.46,uM,1
+Patch Clamp,CC(C)(O)C(Cl)(Cl)Cl,4.36516,uM,1
+Patch Clamp,C([C@@H]1[C@@H]2[N@@]([C@@H](C[C@@H]1OC(c1ccccc1)=O)CC2)C)(OC)=O,4.365,uM,1
+Patch Clamp,CC(=O)N5CCN(c4ccc(OCC3CO[C@@](Cn1ccnc1)(c2ccc(Cl)cc2Cl)O3)cc4)CC5,4.36,uM,1
+Patch Clamp,COC(C)(C)CCOc4ccc(CN3CCC(NC(=O)c2cc(=O)c1ccc(F)cc1o2)CC3)cc4,4.3,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)CC1CCN(C)CC1)nc(c2ccc(C)o2)n3)n4,4.17,uM,1
+Patch Clamp,Clc1cc(c2OCCc2c1N)C(=O)NC1CC[N+](CC1)CCCOC,4.1,uM,1
+Patch Clamp,Fc1ccc2c([nH]c(c3ccccc3)c2C2C[N+]CCC2F)c1,4,uM,1
+Patch Clamp,CC(=O)Nc3cccc(N2CCN(CCCCN(C)S(=O)(=O)CC1CCCCC1)CC2)c3,4,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)Cc1ccc(S(C)(=O)=O)cc1)nc(c2ccccn2)n3)n4,4,uM,1
+Patch Clamp,O=C2CN(CCc1ccc(F)cc1)CCN2C5CCc4cc(Cn3ccnc3)ccc4C5,4,uM,1
+Patch Clamp,CCOC(=O)C2[C@@H](OC(=O)c1ccccc1)C[C@H]3CCC2N3C,4,uM,1
+Patch Clamp,O=S(=O)(CCN2CCC(Cc1ccccc1)CC2)c3ccc(O)cc3,4,uM,1
+Planar Patch Clamp,C1CCC2(C1)CC(=O)N(C(=O)C2)CCCCN3CCN(CC3)C4=NC=CC=N4,3.98107,uM,1
+Planar Patch Clamp, CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F,3.98107,uM,1
+Planar Patch Clamp,CN(C)CCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl,3.98107,uM,1
+Patch Clamp,Nc4ccc(C(=O)N3CC2CC(CN(Cc1ccccc1)C2)C3)cc4,3.98107,uM,1
+Patch Clamp, c12[C@@](c3ccc(F)cc3)(OCc1cc(C#N)cc2)CCCN(C)C,3.98107,uM,1
+Patch Clamp,Fc1ccc(cc1)C1(OCc2cc(C#N)ccc21)CCC[N+](C)C,3.98,uM,1
+Patch Clamp,FC(F)(F)COc1ccc(OCC(F)(F)F)c(c1)C(=O)NCC1[N+]CCCC1,3.91,uM,1
+Patch Clamp,FC(F)(F)COc1ccc(OCC(F)(F)F)c(c1)C(=O)NCC1[N+]CCCC1,3.91,uM,1
+Patch Clamp,CC(=N)N4CCC(Oc3ccc(N(Cc2ccc1ccc(C(=N)N)cc1c2)S(C)(=O)=O)cc3)CC4,3.9,uM,1
+Patch Clamp, c1(c(ccc(c1)OCC(F)(F)F)OCC(F)(F)F)C(NC[C@@H]1CCCCN1)=O,3.89045,uM,1
+Patch Clamp,c1(\C(CCCCOC)=N\OCCN)ccc(C(F)(F)F)cc1,3.8018,uM,1
+Patch Clamp,FC(F)(F)c1ccc(cc1)C(=NOCC[N+])CCCCOC,3.8,uM,1
+Patch Clamp,CC(=O)Nc3cccc(N2CCN(CCCCNS(=O)(=O)CC1CCCCC1)CC2)c3,3.8,uM,1
+Patch Clamp, c12c(nn(c1cccc2)C)C(NC1C[C@@H]2N(C)[C@@H](C1)CCC2)=O,3.71535,uM,1
+Patch Clamp,c12c(nn(c1cccc2)C)C(NC1C[C@@H]2N(C)[C@@H](C1)CCC2)=O,3.715,uM,1
+Patch Clamp,c4ccc(C2(c1ccccc1)CC2C3=NCCN3)cc4,3.7,uM,1
+Patch Clamp,Cc3ccc(C[C@H]2CCN(CCS(=O)(=O)c1ccc(O)cc1)C[C@H]2O)cc3,3.7,uM,1
+Patch Clamp,c1([C@@](Cc2ccccc2)([C@@H](CNC)C)OC(CC)=O)ccccc1,3.6307,uM,1
+Patch Clamp,Nc4ccc(C(=O)N3CC2CC(CN(Cc1ccccc1)C2)C3)cc4,3.63,uM,1
+Patch Clamp,O=C(OC(Cc1ccccc1)(c1ccccc1)C(C)C[N+]C)CC,3.63,uM,1
+Patch Clamp,C1N(Cc2ccccc2)C[C@@H]2CN(C[C@@H]1C2)C(c1ccc(cc1)N)=O,3.63,uM,1
+Patch Clamp,c1c(Cl)ccc(c12)n(cc2CC)-c3ccc(F)cc3,3.5,uM,1
+Patch Clamp,CN(C)CCCN1c2ccccc2CCc3ccccc13,3.4,uM,1
+Patch Clamp, N1(c2c(CCc3c1cccc3)cccc2)CCCN(C)C,3.38844,uM,1
+Patch Clamp,N1(c2c(CCc3c1cccc3)cccc2)CCCN(C)C,3.3884,uM,1
+Patch Clamp, c1(c2nc3c(n(C)nc3CCC)c([nH]2)=O)c(ccc(c1)S(N1CCN(C)CC1)(=O)=O)OCC,3.31131,uM,1
+Patch Clamp,CCN(CC)Cc4ccc3CC([N@]2CCN(CCc1ccc(Cl)cc1)CC2=O)CCc3c4,3.3,uM,1
+Patch Clamp,CCN(CC)Cc4ccc3CC([N@]2CCN(CCC1CCCCC1)CC2=O)CCc3c4,3.3,uM,1
+Patch Clamp,CCN(CC)Cc4ccc3CC([N@]2CCN(CCc1ccc(Cl)cc1)CC2=O)CCc3c4,3.3,uM,1
+Patch Clamp, c1cc2c(c3c(CCN(C3=O)Cc3c(nc[nH]3)C)n2C)cc1,3.23594,uM,1
+Patch Clamp,O=C1N(CCc2[nH0](C)c3ccccc3c21)Cc1[nH]c[nH0]c1C,3.23,uM,1
+Patch Clamp,O=C1N(CCC1[N+]Cc1[nH0](c[nH0]c1)Cc1ccc(C#N)cc1)c1cc[nH0]cc1,3.2,uM,1
+Patch Clamp,CON=CCOc4ccc(CN3CCC(NC(=O)c2cc(=O)c1ccc(F)cc1o2)CC3)cc4F,3.2,uM,1
+Patch Clamp,CN4CCN3c1ccccc1Cc2ccccc2C3C4,3.2,uM,1
+Patch Clamp,CCc1cn(c2ccc(F)cc2)c3ccc(Cl)cc13,3.16228,uM,1
+Patch Clamp,O(C)c1ccc(cc1OC)CC[N+]CCCC(C#N)(c1ccc(OC)c(OC)c1)C(C)C,3.16,uM,1
+Patch Clamp,[N+](C)CCCC12CCC(c3ccccc31)c1ccccc12,3.1,uM,1
+Patch Clamp,Clc1ccccc1C([nH0]1c[nH0]cc1)(c1ccccc1)c1ccccc1,3.02,uM,1
+Patch Clamp, C(c1ccccc1)(c1ccccc1)OC1CCN(CCCC(c2ccc(C(C)(C)C)cc2)=O)CC1,3.01995,uM,1
+Patch Clamp,C(c1c(cccc1)Cl)(n1ccnc1)(c1ccccc1)c1ccccc1,3.0199,uM,1
+Patch Clamp,Fc1cccc2c1[nH]c(c1ccccc1)c2C1C[N+]CCC1F,3,uM,1
+Patch Clamp,CC(=O)Nc2cccc(N1CCN(CCCCNS(=O)(=O)CC(C)C)CC1)c2,3,uM,1
+Patch Clamp,COc4cc(CC(=O)Nc3cc(n1nc(C)cc1C)nc(c2ccc(C)o2)n3)cc(OC)c4,3,uM,1
+Patch Clamp,CCN(CC)CC(=O)Nc1c(C)cccc1C,3,uM,1
+Patch Clamp,CC(CN(C)C)C(C)(O)Cc1ccc(Cl)cc1,2.9,uM,1
+Patch Clamp,O(C(CC)=O)[C@@](c1ccccc1)(Cc1ccccc1)[C@@H](CN(C)C)C,2.754,uM,1
+Patch Clamp,O(C)c1ccc(cc1OC)CC[N+](C)CCCC(C#N)(c1cc(OC)c(OC)c(OC)c1)C(C)C,2.7,uM,1
+Patch Clamp,NC(=O)CNC[C@H]1CC[C@]2(CC1)OO[C@@]4(O2)C3CC5CC(C3)CC4C5,2.7,uM,1
+Patch Clamp,CN(C)Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccc(Cl)cc1)cn2)CCc3c4,2.6,uM,1
+Patch Clamp,Cc3cn2c(N)c(Cl)cc(C(=O)NCC1CCN(CC(C)C)CC1)c2n3,2.6,uM,1
+Patch Clamp,c12c(c(cc(n2)C(F)(F)F)[C@@H]([C@H]2CCCCN2)O)cccc1C(F)(F)F,2.6,uM,1
+Patch Clamp,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C3CCCCN3,2.56,uM,1
+Patch Clamp,Clc1ccc2c([nH0]ccc2NC(C)CCC[N+](CC)CC)c1,2.5,uM,1
+Patch Clamp,[N+]1(CC2C[N+](CC(C1)C12CCCC1)CC1CC1)CC1CC1,2.5,uM,1
+Patch Clamp,Fc1ccc2c([nH]c(C3=CNC=CC3)c2C2C[N+]CCC2F)c1,2.5,uM,1
+Patch Clamp,CN(C(=O)c2ccc(c1ccc(F)cc1)cc2)[C@H]5CCc4cc(CN3CCS(=O)(=O)CC3)ccc4C5,2.5,uM,1
+Patch Clamp,[H][C@]13CNC[C@@H](C)N1c2c(C)c(Cl)ccc2C3,2.5,uM,1
+Patch Clamp,c12c(nccc1N[C@@H](CCCN(CC)CC)C)cc(Cl)cc2,2.5,uM,1
+Patch Clamp,N(c1ccccn1)(Cc1ccc(OC)cc1)CCN(C)C,2.454,uM,1
+Patch Clamp,O(C)c1ccc(cc1)CN(CC[N+](C)C)c1[nH0]cccc1,2.45,uM,1
+Patch Clamp,Clc1ccc2c(c1)CCc1ccc[nH0]c1C2=C1CCN(CC1)C(=O)OCC,2.3,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)CCN1CC[C@H](N(C)C)C1)nc(c2ccc(C)o2)n3)n4,2.28,uM,1
+Patch Clamp,CC(=O)Nc2cccc(N1CCN(CCCCN(C)S(=O)(=O)CC(C)C)CC1)c2,2.2,uM,1
+Patch Clamp,O=S(=O)(c1ccccc1F)N4CCOc3c(N2CCNCC2)cccc34,2.2,uM,1
+Patch Clamp,CC[C@@H](O)c1cn(c(c12)ccc(Cl)c2)-c3ccc(F)cc3,2.2,uM,1
+Patch Clamp, c1ccccc1C([C@@H](OC(=O)C)CC)(c1ccccc1)C[C@@H](N(C)C)C,2.18776,uM,1
+Patch Clamp,O=C(OC(CC)C(CC([N+](C)C)C)(c1ccccc1)c1ccccc1)C,2.18,uM,1
+Patch Clamp,Clc1cccc2c1[nH]c(c1ccccc1)c2C1C[N+]CCC1F,2.1,uM,1
+Patch Clamp,[H][N+]([H])([H])c1cc(NS(C)(=O)=O)ccc1OCCN(C)CCc2ccc(OC)c(OC)c2,2.1,uM,1
+Patch Clamp,Clc1ccc(COC(Cn2ccnc2)c3ccc(Cl)cc3Cl)c(Cl)c1,2.1,uM,1
+Patch Clamp,Clc1ccc(COC(Cn2ccnc2)c3ccc(Cl)cc3Cl)c(Cl)c1,2.0893,uM,1
+Patch Clamp,C1(\c2c(cc(Cl)cc2)CCc2c1nccc2)=C1\CCN(C(OCC)=O)CC1,2.0892,uM,1
+Patch Clamp,Clc1ccccc1C1C(=C(NC(COCC[N+])=C1C(=O)OCC)C)C(=O)OC,2,uM,1
+Patch Clamp,O=C2CN(CCc1ccc(F)cc1)CCN2C5CCc4cc(CN3CCC(C(F)(F)F)CC3)ccc4C5,2,uM,1
+Patch Clamp,CN(C)C(=N)c4ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)c(N3CCCCC3C(=O)O)c4,2,uM,1
+Patch Clamp,[S+2]([O-])([O-])(Nc1ccc(Nc2c3ccccc3[nH0]c3ccccc32)c(OC)c1)C,2,uM,1
+Planar Patch Clamp,COC1=C(C=C2C(=C1)CC(C2=O)CC3CCN(CC3)CC4=CC=CC=C4)OC,1.99526,uM,1
+Planar Patch Clamp,CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F,1.99526,uM,1
+Patch Clamp,CCC(O)c1cn(c2ccc(F)cc2)c3ccc(Cl)cc13,1.99526,uM,1
+Patch Clamp,CCC(=O)c1cn(c2ccc(F)cc2)c3ccc(Cl)cc13,1.99526,uM,1
+Patch Clamp,COc1cc(N)c(Cl)cc1C(=O)NC2CCN3CCCC2C3,1.99526,uM,1
+Patch Clamp,CCC(=O)c1cn(c(c12)ccc(Cl)c2)-c3ccc(F)cc3,1.947,uM,1
+Patch Clamp,[H][C@@]3(COc1ccc(cc1)N2CCN(CC2)C(C)=O)CO[C@@](Cn4ccnc4)(O3)c5ccc(Cl)cc5Cl,1.90546,uM,1
+Patch Clamp,C1(\c2c(CCc3c1cccc3)cccc2)=C\CCN(C)C,1.9054,uM,1
+Patch Clamp,CC(=O)N5CCN(c4ccc(OCC3CO[C@@](Cn1ccnc1)(c2ccc(Cl)cc2Cl)O3)cc4)CC5,1.9,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)CN1CC[C@H](CN(C)C)C1)nc(c2ccc(C)o2)n3)n4,1.86,uM,1
+Patch Clamp,CCC(=O)N(C1CCN(CCc2ccccc2)CC1)c3ccccc3,1.8197,uM,1
+Patch Clamp, C(C)C(N(C1CCN(CCc2ccccc2)CC1)c1ccccc1)=O,1.8197,uM,1
+Patch Clamp,CCN4CCC3(C=C(c1ccc(C(=O)N(CC)CC)cc1)c2ccccc2O3)CC4,1.814,uM,1
+Patch Clamp,[H]N(C(=N)c2ccc(c1ccc(Cl)cc1)o2)c3cccc(C)c3,1.8,uM,1
+Patch Clamp,CN(C)Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccc(F)cc1)cc2)CCc3c4,1.8,uM,1
+Patch Clamp,CN(C)C(=O)CN(C)Cc4ccc3C[C@@H](N(C)C(=O)c2ccc(c1ccc(F)cc1)cc2)CCc3c4,1.8,uM,1
+Patch Clamp,CNC5CCN(c4ccc(n3ncc2cc(c1ccc(C(F)(F)F)cc1)sc2c3=O)cn4)C5,1.8,uM,1
+Patch Clamp,O=C2NC[C@@H](c1ccccc1)C25CCN([C@@H]3CCCC[C@@]3(O)c4ccc(F)cc4)CC5,1.8,uM,1
+Patch Clamp,NC[C@@H]1CC[C@@]2(CC1)OO[C@]4(O2)C3CC5CC(C3)CC4C5,1.8,uM,1
+Patch Clamp,N#C[C@@H]1CCCN1C(=O)C4CN(Cc3ccc(n2cncn2)cc3)C[C@@H]4N,1.8,uM,1
+Patch Clamp,C(#Cc5cc(c3n[nH]c4c2ccc(Cn1cncn1)cc2Cc34)cs5)COc6ccccc6,1.7,uM,1
+Patch Clamp,CCN(CC)Cc4ccc3CC([N@]2CCN(CCc1cccc(C(F)(F)F)c1)CC2=O)CCc3c4,1.7,uM,1
+Patch Clamp,CCN(CC)Cc1ccc2CC(CCc2c1)N3CCN(CCc4cccc(c4)C(F)(F)F)CC3=O,1.7,uM,1
+Patch Clamp,CCCNCC(O)COc1ccc(O)cc1C(=O)CCc2ccccc2,1.67,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)CN1CCC(CN(C)C)CC1)nc(c2ccc(C)o2)n3)n4,1.67,uM,1
+Patch Clamp,COCCN(C)CCn3c(C#N)c(c1cccc(F)c1)c2cc(OC)ccc2c3=O,1.65,uM,1
+Patch Clamp,Fc1ccc(cc1)c1[nH]c2cc(F)ccc2c1C1C[N+]CC[C@H](F)1,1.6,uM,1
+Patch Clamp,CN(C)C(=N)c4ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)c(N3CCCC(C(=O)O)C3)c4,1.6,uM,1
+Patch Clamp,O=C(NC2CCN(Cc1ccc(OCC(F)(F)F)c(F)c1)CC2)c4cc(=O)c3ccc(F)cc3o4,1.6,uM,1
+Planar Patch Clamp,CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F,1.58489,uM,1
+Patch Clamp,CCC(CC)c1cn(c2ccc(F)cc2)c3ccc(Cl)cc13,1.58489,uM,1
+Patch Clamp,CN(C)CCCN1c2ccccc2Sc3ccc(Cl)cc13,1.58489,uM,1
+Patch Clamp, c12c(nc(N3CCN(C(c4ccco4)=O)CC3)nc2N)cc(OC)c(c1)OC,1.58489,uM,1
+Patch Clamp,C(=C(/c1ccccc1)CC)(\c1ccc(OCCN(C)C)cc1)c1ccccc1,1.5848,uM,1
+Patch Clamp,CC\C(c1ccccc1)=C(/c2ccccc2)c3ccc(OCC[N+](C)C)cc3,1.58,uM,1
+Patch Clamp,O=C(N1CCN(CC1)c1[nH0]c(N)c2cc(OC)c(OC)cc2[nH0]1)c1occc1,1.57,uM,1
+Patch Clamp, c1([C@@H](Oc2ccc(C(F)(F)F)cc2)CCNC)ccccc1,1.51356,uM,1
+Patch Clamp,[N+](C(C)CC(c1ccccc1)c1ccccc1)C(C)(C)C,1.51,uM,1
+Patch Clamp,s1ccc(c1)c1[nH]c2cc(F)ccc2c1C1C[N+]CCC1F,1.5,uM,1
+Patch Clamp,O=C(Nc3cccc(N2CCN(CCCCNS(=O)(=O)CC1CCCCC1)CC2)c3)C4CC4,1.5,uM,1
+Patch Clamp,O[C@@H]4c3ccc(OCc1ccccc1c2ccccc2)cc3CC[C@H]4CCN6CCC(c5ccccc5)CC6,1.5,uM,1
+Patch Clamp,c12c([C@@H]([C@@H]3[N@@]4C[C@H](C=C)[C@@H](C3)CC4)O)ccnc1ccc(c2)OC,1.5,uM,1
+Patch Clamp,CCC(CC)c1cn(c(c12)ccc(Cl)c2)-c3ccc(F)cc3,1.48,uM,1
+Patch Clamp, N1(c2c(Sc3c1cccc3)ccc(c2)Cl)CCCN(C)C,1.47911,uM,1
+Patch Clamp,c1(N2CCN(C(c3cc(c(OC)cc3)OC)=O)CC2)cc2c(NC(=O)CC2)cc1,1.4791,uM,1
+Patch Clamp,CN(C)CCCN1c2ccccc2Sc3ccc(Cl)cc13,1.47,uM,1
+Patch Clamp, C1[C@@]([C@H](c2c(cc(F)cc2)C1)C(C)C)(CC[N@@](CCCc1[nH]c2ccccc2n1)C)OC(COC)=O,1.44544,uM,1
+Patch Clamp,C1[C@@]([C@H](c2c(cc(F)cc2)C1)C(C)C)(CC[N@@](CCCc1[nH]c2ccccc2n1)C)OC(COC)=O,1.4454,uM,1
+Patch Clamp,COCC(=O)O[C@@]3(CCN(C)CCCc1nc2ccccc2[nH]1)CCc4cc(F)ccc4[C@H]3C(C)C,1.43,uM,1
+Patch Clamp, c1(c2ccc(Cl)cc2)oc(\C=N\N2C(N(CCCCN3CCN(C)CC3)C(C2)=O)=O)cc1,1.41254,uM,1
+Patch Clamp,Clc1ccc2c([nH]c(c3ccccc3)c2C2C[N+]CCC2F)c1,1.4,uM,1
+Patch Clamp,CN(CC(=O)O)C(=N)c3ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)cc3,1.4,uM,1
+Patch Clamp,CN(CCCC(=O)O)C(=N)c3ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)cc3,1.4,uM,1
+Patch Clamp,O=C2NC[C@@H](c1ccccc1)C25CCN([C@@H]3CCCCC3c4ccccc4)CC5,1.4,uM,1
+Patch Clamp,[N+](C)CCCN1c2ccccc2CCc2ccccc12,1.39,uM,1
+Patch Clamp,[N+](C)CCCN1c2ccccc2CCc2ccccc12,1.39,uM,1
+Patch Clamp, N1(c2c(CCc3c1cccc3)cccc2)CCCNC,1.38038,uM,1
+Patch Clamp,Fc1ccc(cc1)c1[nH]c2cc(F)ccc2c1C1C[N+]CCC1,1.3,uM,1
+Patch Clamp,O=C2NCC(c1ccc(F)cc1)C25CCN(C4(c3ccc(F)cc3)CCCCC4)CC5,1.3,uM,1
+Patch Clamp,CSc1ccc2Sc3ccccc3N(CCC4CCCCN4C)c2c1,1.25,uM,1
+Patch Clamp,N#Cc1c(Cl)cccc1OC[C@H](O)CN2CCC[C@H]2Cc3ccccc3,1.24,uM,1
+Patch Clamp,C1[C@@H]2[C@H]([C@H](C[C@@H](C1)[N@@]2C)OC(c1ccccc1)=O)C(OCC)=O,1.2022,uM,1
+Patch Clamp,CCOC(=O)C2[C@@H](OC(=O)c1ccccc1)C[C@H]3CCC2N3C,1.2,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)COc1cccc(CN(C)C)c1)nc(c2ccc(C)o2)n3)n4,1.2,uM,1
+Patch Clamp,FC(F)Oc1ccc(cc1OC(F)F)C(C1=CNC(C=C1)C(O)(C)c1ccccc1)c1cc[nH0+](O)cc1,1.18,uM,1
+Patch Clamp,O=C1Nc2ccc(N3CCN(CC3)C(=O)c3ccc(OC)c(OC)c3)cc2CC1,1.1,uM,1
+Patch Clamp,FC1CC[N+]CC1c1c2ccccc2[nH]c1c1ccccc1,1.1,uM,1
+Patch Clamp,Clc1cccc(c1)CN1CCC([N+](CC[N+]2CC[N+]CC2)Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,1.1,uM,1
+Patch Clamp,O(C)c1ccc(cc1)CN(CC[N+](C)C)c1[nH0]cccc1,1.1,uM,1
+Patch Clamp,c1(cc(c(cc1)[C@@]1(O[C@H](COc2ccc(cc2)N2CCN(CC2)C(C)=O)CO1)Cn1cncc1)Cl)Cl,1.07151,uM,1
+Patch Clamp,[H]C1(C=C)CN2CCC1C[C@@]2([H])[C@@](C)(O)c3ccnc4ccc(OC)cc34,1.07,uM,1
+Patch Clamp,O=C1NN=C(CC1)c1ccc(Nc2cc[nH0]cc2)cc1,1.04,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)CN1CC[C@@H](CN(C)C)C1)nc(c2ccc(C)o2)n3)n4,1.01,uM,1
+Patch Clamp,Ic1cc(cc(I)c1OCC[N+](CC)CC)C(=O)c1c2ccccc2oc1CCCC,1,uM,1
+Patch Clamp,[N+](CCC(c1ccccc1)c1ccccc1)C(C)Cc1ccccc1,1,uM,1
+Patch Clamp,[S+2]([O-])([O-])(NCC1CCC(CC1)c1[nH0]c(c[nH]1)c1cccc(c1)C(F)(F)F)c1ccccc1,1,uM,1
+Patch Clamp,[S+2]([O-])([O-])(N(C)CC1CCC(CC1)c1[nH0]c(c[nH]1)c1cccc(c1)C(F)(F)F)c1ccccc1,1,uM,1
+Patch Clamp,FC(F)(F)c1cccc(c1)c1[nH0]c([nH]c1)C1CCC(CC1)C(=O)NCCO,1,uM,1
+Patch Clamp,Brc1cccc(c1)c1[nH0]c([nH]c1)C1CCC(CC1)C(=O)NC(=O)C,1,uM,1
+Patch Clamp,Cc6cc(C(=O)Nc3ccc(c1ccccc1CN2CCCCC2)cc3F)n(c5cc4ccccc4cc5F)n6,1,uM,1
+Patch Clamp,COc1cccc(C(O)C2CCN(CCc3ccc(F)cc3)CC2)c1OC,1,uM,1
+Patch Clamp,CN(C)CCCn1cc(C2=C(C(=O)NC2=O)c3c[nH]c4ccccc34)c5ccccc15,1,uM,1
+Patch Clamp,CCC1C(O)N2C3CC45C(O)C3C1CC2C5N(C)c6ccccc64,1,uM,1
+Patch Clamp,CN(C)CCCn5cc(c3c(c1c[nH]c2ccccc12)c(=O)[nH]c3=O)c4ccccc45,1,uM,1
+Patch Clamp,[H][C@@]1(O)C4[C@@H]5C[C@]13c2ccccc2N(C)C3[C@]6([H])C[C@]4([H])[C@]([H])(CC)[C@@H](O)N56,1,uM,1
+Patch Clamp,c1(c2c(cc(F)cc2)on1)C1CCN(CCc2c(n3c(CCCC3)nc2C)=O)CC1,1,uM,1
+Patch Clamp,FC(F)(F)c1ccc(OC(CC[N+]C)c2ccccc2)cc1,0.99,uM,1
+Patch Clamp,CCOC(=O)COc3ccc(NC(=O)c1ccc(C(=N)N(C)C)cc1)c(C(=O)Nc2ccc(Cl)cn2)c3,0.97,uM,1
+Patch Clamp,O=C1Nc2ccc(OCC(O)C[N+]Cc3ccc(OC)c(OC)c3)cc2C=C1,0.955,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)CN1CCN(C)CC1)nc(c2ccc(C)o2)n3)n4,0.95,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)CN1CCN(C)CC1)nc(c2ccc(C)o2)n3)n4,0.95,uM,1
+Patch Clamp,c1([C@@](CCC[N@@](CCc2cc(c(OC)cc2)OC)C)(C(C)C)C#N)cc(c(OC)cc1)OC,0.94,uM,1
+Patch Clamp,Fc1ccc2c([nH]c(c2C2C[N+]CC[C@H](F)2)C(=O)Nc2ccccc2)c1,0.93,uM,1
+Patch Clamp,Fc1ccc2c([nH]c(c2C2C[N+]CCC2F)C2CCCCCC2)c1,0.93,uM,1
+Patch Clamp,Cc5cc(C(=O)Nc2ccc(C(=N)N1CCCC1)cc2)n(c4cc3ccccc3cc4C#N)n5,0.88,uM,1
+Patch Clamp,S1c2ccccc2N(CC(C)C[N+](C)C)c2cc(C#N)ccc12,0.87,uM,1
+Patch Clamp,O=C1N(CCC1[N+](Cc1c[nH0]ccc1)Cc1[nH0](c[nH0]c1)Cc1ccc(C#N)cc1)Cc1ccccc1,0.87,uM,1
+Patch Clamp,CC(C)c4nc(CN(C)C(=O)N[C@H](C(=O)N[C@@H](Cc1ccccc1)C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc3cncs3)C(C)C)cs4,0.87,uM,1
+Patch Clamp,C1CC(c2ccccc2)(c2ccccc2)CCN1C(C)(C)C,0.8511,uM,1
+Patch Clamp,Cc1ccccc1C(OCCN(C)C)c2ccccc2,0.85,uM,1
+Patch Clamp,c1(c2c(cccc2)oc1CCCC)C(c1cc(c(OCCN(CC)CC)c(c1)I)I)=O,0.8317,uM,1
+Patch Clamp, c12c3c(cccc3)n(c1CC[C@@H](C2=O)Cn1c(ncc1)C)C,0.812831,uM,1
+Patch Clamp,Cc1nccn1CC2CCc4c(C2=O)c3ccccc3n4C,0.8128,uM,1
+Patch Clamp,O=C1c2c([nH0](C)c3ccccc32)CCC1C[nH0]1cc[nH0]c1C,0.81,uM,1
+Patch Clamp,NCc5ccc(F)c(C4CCN(C(=O)c3cccc(c2nc(c1cccs1)no2)c3)CC4)c5,0.8,uM,1
+Patch Clamp,COC(=O)CCc3ccc(NC(=O)c1ccc(C(=N)N(C)C)cc1)c(C(=O)Nc2ccc(Cl)cn2)c3,0.79,uM,1
+Patch Clamp,C(=C(/c1ccccc1)CC)(\c1ccc(OCCN(C)C)cc1)c1ccccc1,0.777,uM,1
+Patch Clamp,CCN(CC)C(=O)c4ccc(C2=CC1(CCN(C)CC1)Oc3ccccc23)cc4,0.766,uM,1
+Patch Clamp,c12c(c(c(C(O)=O)cn1C1CC1)=O)c(c(F)c(c2F)N1C[C@H](N[C@H](C1)C)C)N,0.7585,uM,1
+Patch Clamp,[H][C@](O)(C[C@H]2c1cc(OC)c(OC)cc1CCN2C)c3ccc(OC)cc3,0.75,uM,1
+Patch Clamp,c1(c2ccc(Cl)cc2)oc(\C=N\N2C(N(CCCCN3CCN(C)CC3)C(C2)=O)=O)cc1,0.7413,uM,1
+Patch Clamp,O=C(NC4CCN(Cc3ccc(OCCCN(C1CC1)C2CC2)c(F)c3)CC4)c6cc(=O)c5ccc(F)cc5o6,0.74,uM,1
+Patch Clamp,Clc1cc(Cl)c2cc(c3ccc(cc3c2c1)[C@](F)(F)F)[C@H](O)CC[N+],0.71,uM,1
+Patch Clamp,COc(cc1)ccc1[C@@](C#N)(C(C)C)CCCN(C)CCc2cc(OC)c(cc2)OC,0.706,uM,1
+Patch Clamp,Ic1cc(cc(I)c1OCC[N+](CC)CC)C(=O)c1c2ccccc2oc1CCCC,0.7,uM,1
+Patch Clamp,Clc1cccc(c1)N2CCN(CCCn3nc4ccccn4c3=O)CC2,0.691831,uM,1
+Patch Clamp,Cc3ccc(CC2(O)CCN(CCOc1ccc(O)cc1)CC2)cc3,0.69,uM,1
+Patch Clamp,Cc3ccc(CC2(O)CCN(CCOc1ccc(O)cc1)CC2)cc3,0.69,uM,1
+Patch Clamp,C3=C(c1ccccc1)c2ccccc2OC34CCNCC4,0.68,uM,1
+Patch Clamp,COC(=O)c4ccc(C2=CC1(CCNCC1)Oc3ccccc23)cc4,0.663,uM,1
+Patch Clamp,n1(c(=O)n(c(=O)cc1NCC[N@@](CCCc1ccc(cc1)[N+](=O)[O-])CCO)C)C,0.6606,uM,1
+Patch Clamp,CCCNCC(O)COc1ccccc1C(=O)CCc2ccccc2,0.66,uM,1
+Patch Clamp,Cc3cc(C)n(c2cc(NC(=O)CCN(C)C)nc(c1ccc(C)o1)n2)n3,0.653,uM,1
+Patch Clamp,Cc3cc(C)n(c2cc(NC(=O)CCN(C)C)nc(c1ccc(C)o1)n2)n3,0.65,uM,1
+Patch Clamp,Oc4ccc(C2=CC1(CCNCC1)Oc3ccccc23)cc4,0.643,uM,1
+Patch Clamp,Clc1cccc(N2CCN(CCCCOc3ccc4CCC(=O)Nc4c3)CC2)c1Cl,0.636,uM,1
+Planar Patch Clamp,COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3C[C@@H]4CCN3C[C@@H]4C=C)O,0.630957,uM,1
+Patch Clamp,OC(=O)Cc1ccc(cc1)n2cc(C3CCN(CCN4CCNC4=O)CC3)c5cc(Cl)ccc25,0.630957,uM,1
+Patch Clamp,Clc1cccc(N2CCN(CCCCOc3ccc4CCC(=O)Nc4c3)CC2)c1Cl,0.630957,uM,1
+Patch Clamp,CCOC(=O)C4CCN(c1cc(C(=N)N(C)C)ccc1C(=O)Nc2ccc(OC)cc2C(=O)Nc3ccc(Cl)cn3)CC4,0.6,uM,1
+Patch Clamp,CN1CCN=C1c6ccc(C(=O)N4CCN(S(=O)(=O)c3cc2ccc(Cl)cc2s3)CC4CC(=O)N5CCOCC5)cc6,0.6,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)CN1CC[C@H](N(C)C)C1)nc(c2ccc(C)o2)n3)n4,0.6,uM,1
+Patch Clamp,CS(=O)(=O)c4ccc(OCC1CC1)c(C(=O)N3CCN(c2ccc(C#N)cc2F)CC3)c4,0.6,uM,1
+Patch Clamp,O=C(N1CCN(CC1)c1[nH0]c(N)c2cc(OC)c(OC)cc2[nH0]1)C1Oc2ccccc2OC1,0.585,uM,1
+Patch Clamp,COc4ccc(C2=CC1(CCNCC1)Oc3ccccc23)cc4,0.585,uM,1
+Patch Clamp,O=C(O)Cc1ccc(cc1)-n(c(c23)ccc(Cl)c3)cc2[C@H]4CCN(CC4)CCN(C5=O)CCN5,0.579,uM,1
+Patch Clamp,COC(=O)c4ccc(Oc3ccc(NC(=O)c1ccc(C(=N)N(C)C)cc1)c(C(=O)Nc2ccc(Cl)cn2)c3)cc4,0.57,uM,1
+Patch Clamp,O=C(COc1cccc(Cl)c1)NC4CCN(Cc3ccn(c2ccc(C(F)(F)F)cc2)c3)CC4,0.56,uM,1
+Patch Clamp,CN1C3CCC1CC(OC(=O)C(CO)c2ccccc2)C3,0.558,uM,1
+Patch Clamp,S1c2ccccc2N(CCC2[N+](C)CCCC2)c2cc([S+]([O-])C)ccc12,0.55,uM,1
+Patch Clamp,CC(C)COCC(CN(Cc1ccccc1)c2ccccc2)N3CCCC3,0.55,uM,1
+Patch Clamp,S1c2ccccc2N(CCC2[N+](C)CCCC2)c2cc([S+]([O-])C)ccc12,0.55,uM,1
+Patch Clamp, c12N(c3c(cccc3)Sc1ccc(c2)[S@@](C)=O)CC[C@@H]1[N@@](CCCC1)C,0.549541,uM,1
+Patch Clamp, N(c1ccccc1)(C[C@@H](N1CCCC1)COCC(C)C)Cc1ccccc1,0.549541,uM,1
+Patch Clamp,c12c([C@@H]([C@@H]3[N@@]4C[C@H](C=C)[C@@H](C3)CC4)O)ccnc1ccc(c2)OC,0.5495,uM,1
+Patch Clamp,c1(c2c(cccc2)oc1CCCC)C(c1cc(c(OCCN(CC)CC)c(c1)I)I)=O,0.546,uM,1
+Patch Clamp,[nH]1c2ccccc2c(c1c1ccccc1)C1C[N+](CCC1)CCc1ccccc1,0.53,uM,1
+Patch Clamp,CC(=C(F)C(=O)Nc2ccc(c1ccccc1S(N)(=O)=O)cc2)c3ccc(C(=N)N)cc3,0.53,uM,1
+Patch Clamp,CC(=O)c4c(O)c(C)c(O)c(Cc3c(O)c1C=CC(C)(C)Oc1c(C(=O)C=Cc2ccccc2)c3O)c4O,0.52,uM,1
+Patch Clamp,CC(C)(O)c1ccc(cc1)C(O)CCCN2CCC(CC2)C(O)(c3ccccc3)c4ccccc4,0.501187,uM,1
+Patch Clamp,CN1CCN(CCCCN2C(=O)CN(N=Cc3ccc(o3)c4ccc(Cl)cc4)C2=O)CC1,0.501187,uM,1
+Patch Clamp,O=c4[nH]c(=O)c(c2nn(CCCN1CCOCC1)c3ccccc23)c4c7cn(c6ccc5ccccc5c6)c8ccccc78,0.5,uM,1
+Patch Clamp,Fc1ccc2c([nH]c(c3ccc4ccccc4c3)c2C2C[N+]CCC2F)c1,0.5,uM,1
+Patch Clamp,CN(C)CCCn6nc(c4c(c2cn(c1cccnc1)c3ccccc23)c(=O)[nH]c4=O)c5ccccc56,0.49,uM,1
+Patch Clamp,O=C(COc1cccc(Cl)c1)NC4CCN(Cc3ccn(c2ccc(OC(F)(F)F)cc2)c3)CC4,0.49,uM,1
+Patch Clamp,Clc1cccc(c1)CN1CCC([N+](CCC[N+])Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,0.48,uM,1
+Patch Clamp,Cc4ccc(C2=CC1(CCNCC1)Oc3ccccc23)cc4,0.462,uM,1
+Patch Clamp,FC(F)(F)c1ccc(OC(CC[N+]C)c2ccccc2)cc1,0.46,uM,1
+Patch Clamp,CC(C)(O)c1ccc(cc1)[C@H](O)CCCN(CC2)CCC2C(O)(c3ccccc3)c4ccccc4,0.46,uM,1
+Patch Clamp,CC(CC(c1ccccc1)c2ccccc2)NC(C)(C)C,0.45,uM,1
+Patch Clamp,CC(C)CON=CCOc4ccc(CN3CCC(NC(=O)c2cc(=O)c1ccc(F)cc1o2)CC3)cc4F,0.45,uM,1
+Patch Clamp,CC(CC(c1ccccc1)c2ccccc2)NC(C)(C)C,0.446684,uM,1
+Patch Clamp,O=C(CCc1ccccc1)c1ccccc1OCC(O)C[N+]CCC,0.44,uM,1
+Patch Clamp,[S+]([O-])(CCC)CCC[N+](CC)CC(O)COc1ccc(C#N)cc1,0.44,uM,1
+Patch Clamp,Clc1cccc(c1)CN1CCC([N+]Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,0.44,uM,1
+Patch Clamp,O=C(CCc1ccccc1)c1ccccc1OCC(O)C[N+]CCC,0.44,uM,1
+Patch Clamp, n1(Cc2ccc(cc2)F)c(N2CCC(CC2)N(C)c2nccc([nH]2)=O)nc2c1cccc2,0.436516,uM,1
+Patch Clamp,CC(C)(C)c1ccc(cc1)[C@@H](O)CCCN(CC2)CCC2C(O)(c3ccccc3)c4ccccc4,0.431,uM,1
+Patch Clamp,CN(C)CCCn7nc(c5c(c3cn(c2ccc1ccncc1c2)c4ccccc34)c(=O)[nH]c5=O)c6ccccc67,0.43,uM,1
+Patch Clamp,Cc6ccc5c(c4nnc(SCCCN3CCc2ccc(c1cc(C)nn1C)cc2CC3)n4C)cccc5n6,0.43,uM,1
+Patch Clamp,CCN[C@H]4CCN(CC(=O)Nc3cc(n1nc(C)cc1C)nc(c2ccc(C)o2)n3)C4,0.42,uM,1
+Patch Clamp,[H]C1(C=C)CN2CCC1C[C@@]2([H])[C@@](C)(O)c3ccnc4ccc(OC)cc34,0.4,uM,1
+Planar Patch Clamp, CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O,0.398107,uM,1
+Patch Clamp,CN(C1CCN(CC1)c2nc3ccccc3n2Cc4ccc(F)cc4)c5nccc(=O)[nH]5,0.398107,uM,1
+Patch Clamp,FC(F)(F)c4ccc(C2=CC1(CCNCC1)Oc3ccccc23)cc4,0.379,uM,1
+Patch Clamp,CN(C)C(=N)c4ccc(C(=O)Nc2ccc(Sc1ccc(C(=O)N(C)C)cc1)cc2C(=O)Nc3ccc(Cl)cn3)cc4,0.37,uM,1
+Patch Clamp,[H][C@](O)(C[C@H]2c1cc(OC)c(OC)cc1CCN2C)c3ccc(Cl)cc3,0.36,uM,1
+Patch Clamp,CC(C)(C)c4ccc(C(=O)CCCN3CCC(OC(c1ccccc1)c2ccccc2)CC3)cc4,0.331,uM,1
+Patch Clamp, c12c([C@@H]([C@@H]3[N@@]4C[C@H](C=C)[C@@H](C3)CC4)O)ccnc1ccc(c2)OC,0.323594,uM,1
+Patch Clamp, C1(c2ccccc2)(C(OCC)=O)CCN(C)CC1,0.323594,uM,1
+Patch Clamp, C=1(c2c(Nc3c(N1)cc(Cl)cc3)cccc2)N1CCN(C)CC1,0.323594,uM,1
+Patch Clamp,O=[N+]([O-])c1ccc(cc1)C(=O)N(CCC[N+](CC)CC)CC(=O)N(C1CCCCC1)C1CCCCC1,0.32,uM,1
+Patch Clamp,CN1CCN(CC1)C2=Nc(cc(Cl)cc3)c3Nc(c24)cccc4,0.32,uM,1
+Planar Patch Clamp,COC1CN(CCC1NC(=O)C2=CC(=C(C=C2OC)N)Cl)CCCOC3=CC=C(C=C3)F,0.316228,uM,1
+Patch Clamp,CS(=O)(=O)Nc1cc2c(c(oc2cc1)CCCC)C(c1ccc(cc1)OCCCN(CCCC)CCCC)=O,0.3162,uM,1
+Patch Clamp,CC1(C)c2cc(CC(=O)NCCCCCN(CCOc3ccc(NS(C)(=O)=O)cc3)CCc4ccc(NS(C)(=O)=O)cc4)ccc2N5CCC6OC7CC[N+]8=C(C7=CC6=C15)C(C)(C)c9cc(ccc89)S([O-])(=O)=O,0.31,uM,1
+Patch Clamp,n1(c2c(cccc2)[nH]c1=O)C=1CC[N@@](CCCC(c2ccc(F)cc2)=O)CC1,0.307,uM,1
+Patch Clamp,CCN(CC)C(=O)c4cccc(C2=CC1(CCNCC1)Oc3ccccc23)c4,0.303,uM,1
+Patch Clamp,CC(=O)Nc3cccc(N2CCN(CCCCNS(=O)(=O)c1ccc(C)cc1)CC2)c3,0.3,uM,1
+Patch Clamp,CCNC(C)CCCNc2nccc(NCc1ccc(Cl)cc1Cl)n2,0.3,uM,1
+Patch Clamp,[nH]1c2ccccc2c(c1c1ccccc1)C1C[N+](CCC1)Cc1ccccc1,0.29,uM,1
+Patch Clamp,Cc4cc(C)n(c3cc(NC(=O)CN1CCCN(C)CC1)nc(c2ccc(C)o2)n3)n4,0.285,uM,1
+Patch Clamp, n1(Cc2ccc(cc2)F)c(N2CCC(CC2)N(C)c2nccc([nH]2)=O)nc2c1cccc2,0.2818,uM,1
+Patch Clamp,c1(cccnc1)[C@H]1[N@@](CCC1)C,0.2691,uM,1
+Patch Clamp, C1[C@@H](c2ccccc2OC1)CCN1CCC(CC1)c1cc(c(cc1)OC)OC,0.251189,uM,1
+Patch Clamp,Clc1cc2NC(=O)Cc2cc1CCN3CCN(CC3)c4nsc5ccccc45,0.24,uM,1
+Patch Clamp,S1c2ccccc2N(CCC[N+]2CC[N+](C)CC2)c2cc(ccc12)C(F)(F)F,0.234,uM,1
+Patch Clamp,N(CCC[N+](CC)CC)(c1ccccc1)C1Cc2ccccc2C1,0.23,uM,1
+Patch Clamp,[S+2]([O-])([O-])(Nc1ccc(Nc2c3ccccc3[nH0]c3ccccc32)c(OC)c1)C,0.21,uM,1
+Patch Clamp,[S+2]([O-])([O-])(Nc1ccc([S+2]([O-])([O-])N(C)CCN(C)c2[nH0]c3ccccc3[nH0]2C)cc1)C,0.2041,uM,1
+Patch Clamp,CN(CCN(C)S(=O)(=O)c1ccc(NS(C)(=O)=O)cc1)c3nc2ccccc2n3C,0.2041,uM,1
+Patch Clamp,c1cc(F)ccc1-n(c(c23)cc(Cl)cc3)cc2C4CCNCC4,0.204,uM,1
+Patch Clamp,COc4ccc(NC(=O)c1ccc(C(=N)N(C)C)cc1N2CCCCC2)c(C(=O)Nc3ccc(Cl)cn3)c4,0.2,uM,1
+Patch Clamp,CSc4nn3c(N1CCNCC1)c2CCCc2nc3c4S(=O)(=O)c5ccccc5,0.2,uM,1
+Patch Clamp,OC(=O)Cc1ccc(cc1)n2cc(C3CCN(CCN4CCNC4=O)CC3)c5cc(Cl)ccc25,0.199526,uM,1
+Patch Clamp,Fc1ccc(cc1)N2CCN(CCCN3c4cccc5cccc(c45)S3(=O)=O)CC2,0.199526,uM,1
+Patch Clamp, C(C1CCN(CCC[C@@H](c2ccc(C(C)(C)C)cc2)O)CC1)(c1ccccc1)(c1ccccc1)O,0.199526,uM,1
+Patch Clamp, C([C@@H](c1c2c(c3c(c1)c(Cl)cc(c3)Cl)cc(C(F)(F)F)cc2)O)CN(CCCC)CCCC,0.199526,uM,1
+Patch Clamp,c1(nc(CCN2CCC(CC2)C(c2ccc(cc2)NS(C)(=O)=O)=O)ccc1)C,0.1995,uM,1
+Patch Clamp,CC(C)(Cc2ccc1ccccc1c2)NC[C@@H](O)COc3cccc(Cl)c3C#N,0.194,uM,1
+Patch Clamp,CSc1ccc2Sc3ccccc3N(CCC4CCCCN4C)c2c1,0.191,uM,1
+Patch Clamp, N1(c2c(Sc3c1cccc3)ccc(c2)SC)CC[C@@H]1[N@@](CCCC1)C,0.190546,uM,1
+Patch Clamp,O=C1N(CCC1[N+](CCCC)Cc1[nH0](c[nH0]c1)Cc1ccc(C#N)cc1)Cc1ccccc1,0.19,uM,1
+Patch Clamp,Clc1cccc(c1)CN1CCC([N+](CC[N+]2CCOCC2)Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,0.19,uM,1
+Patch Clamp,CCN(CC)CCOc1ccc(cc1)C(=C(Cl)c2ccccc2)c3ccccc3,0.18197,uM,1
+Patch Clamp, C=1(c2c(Nc3c(N1)cccc3)sc(c2)C)N1CCN(C)CC1,0.18197,uM,1
+Patch Clamp,s1c2Nc3ccccc3N=C(N3CC[N+](C)CC3)c2cc1C,0.181,uM,1
+Patch Clamp,Cl/C(/c1ccccc1)=C(c1ccccc1)/c1ccc(OCC[N+](CC)CC)cc1,0.18,uM,1
+Patch Clamp,c1ccccc1C(=O)CCCN(CC2)CCC2(O)c3ccccc3,0.174,uM,1
+Patch Clamp,CC1CCCCN1CCCn8nc(c6c(c4cn(c3ccc2ccccc2c3)c5ccccc45)c(=O)[nH]c6=O)c7ccccc78,0.17,uM,1
+Patch Clamp,O=C3c2ccc(OCc1ccccc1)cc2CCC3CCN5CCC(c4ccccc4)CC5,0.17,uM,1
+Patch Clamp,CN(C(=O)c2ccc(c1ccc(C(F)(F)F)cc1)cc2)[C@H]5CCN(C(=O)N(C)[C@@H]4CCN(CCCc3ccc(Cl)cc3)C4)C5,0.17,uM,1
+Patch Clamp, C1(\c2c(cc(Cl)cc2)CCc2c1nccc2)=C1\CCN(C(OCC)=O)CC1,0.169824,uM,1
+Patch Clamp,Clc1cc2NC(=O)Cc2cc1CCN3CCN(CC3)c4nsc5ccccc45,0.169,uM,1
+Patch Clamp,Cc1nc2CCCCn2c(=O)c1CCN3CCC(CC3)c4noc5cc(F)ccc45,0.167,uM,1
+Patch Clamp,Cc2nc1CCCCn1c(=O)c2CCN5CCC(c3noc4cc(F)ccc34)CC5,0.167,uM,1
+Patch Clamp,c1(c2c(cccc2)sn1)N1CCN(CCc2cc3c(NC(C3)=O)cc2Cl)CC1,0.165,uM,1
+Patch Clamp, n1(c2c(cc(Cl)cc2)[nH]c1=O)C1CCN(CCCn2c3c(cccc3)[nH]c2=O)CC1,0.162181,uM,1
+Patch Clamp,n1(c2c(cc(Cl)cc2)[nH]c1=O)C1CCN(CCCn2c3c(cccc3)[nH]c2=O)CC1,0.1621,uM,1
+Patch Clamp,c1cccc(c12)[nH]c(=O)n2CCCCN(CC3)CCC3n4c(=O)[nH]c(c45)ccc(Cl)c5,0.162,uM,1
+Planar Patch Clamp,CS(=O)(=O)Nc(cc1)ccc1C(=O)C2CCN(CC2)CCc3cccc(n3)C,0.158489,uM,1
+Patch Clamp,Clc1cc2NC(=O)Cc2cc1CCN3CCN(CC3)c4nsc5ccccc45,0.158489,uM,1
+Patch Clamp, c1(c2c(cc(F)cc2)on1)C1CCN(CCc2c(n3c(CCCC3)nc2C)=O)CC1,0.151356,uM,1
+Patch Clamp,c1(c2c(cccc2)sn1)N1CCN(CCc2cc3c(NC(C3)=O)cc2Cl)CC1,0.1513,uM,1
+Patch Clamp,Fc1ccc2c(o[nH0]c2C2CC[N+](CC2)CCC2C(=O)[N+]=3CCCC(O)C=3N=C2C)c1,0.15,uM,1
+Patch Clamp,O=C1N(CCC1[N+]CCc1[nH0](c[nH0]c1)Cc1ccc(C#N)cc1)c1ccccc1,0.15,uM,1
+Patch Clamp,COc1ccc(CCN(C)CCC[C@](C#N)(C(C)C)c2ccc(OC)c(OC)c2)cc1OC,0.143,uM,1
+Patch Clamp, c1([C@@](CCC[N@@](CCc2cc(c(OC)cc2)OC)C)(C(C)C)C#N)cc(c(OC)cc1)OC,0.141254,uM,1
+Patch Clamp,CN(C)C(=N)c4ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)c(N3CCCCC3)c4,0.14,uM,1
+Patch Clamp,CC(C)(C)c4ccc(C(=O)CCCN3CCC(OC(c1ccccc1)c2ccccc2)CC3)cc4,0.14,uM,1
+Patch Clamp,N1CCN(C1=O)CCN(CC2)CC[C@@H]2c3cn(c(c34)ccc(Cl)c4)C5CCCCC5,0.137,uM,1
+Patch Clamp,COC(=O)Cc1ccc(cc1)-n(c(c23)ccc(Cl)c3)cc2[C@H]4CCN(CC4)CCN(C5=O)CCN5,0.131,uM,1
+Patch Clamp,Clc1ccc2n(cc(C3CCN(CCN4CCNC4=O)CC3)c2c1)C5CCCCC5,0.125893,uM,1
+Patch Clamp,COC(=O)Cc1ccc(cc1)n2cc(C3CCN(CCN4CCNC4=O)CC3)c5cc(Cl)ccc25,0.125893,uM,1
+Patch Clamp, c1(c2c(cccc2)sn1)N1CCN(CCc2cc3c(NC(C3)=O)cc2Cl)CC1,0.120226,uM,1
+Patch Clamp,CCCN2CC(CSC)CC1c3cccc4[nH]cc(CC12)c34,0.12,uM,1
+Patch Clamp,Fc1ccc2c([nH]c(c3cccc4ccccc43)c2C2C[N+]CCC2F)c1,0.11,uM,1
+Patch Clamp,Clc1cccc(c1)CN1CCC([N+](CCCNC(=O)OC(C)(C)C)Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,0.11,uM,1
+Patch Clamp,Fc1ccc(cc1)C(=O)C1CC[N+](CC1)CCN1C(=O)Nc2ccccc2C1=O,0.107,uM,1
+Planar Patch Clamp,C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F,0.1,uM,1
+Patch Clamp,O=C(NCc1ccc(CC(O)CO)c(OC)c1)CCCCCCCC,0.1,uM,1
+Patch Clamp,CN(C)C(=N)c3ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)cc3,0.1,uM,1
+Patch Clamp,CCC(=C(c1ccccc1)c2ccc(OCCN(C)C)cc2)c3ccccc3,0.1,uM,1
+Patch Clamp,N#Cc4ccc(C2=CC1(CCNCC1)Oc3ccccc23)cc4,0.1,uM,1
+Patch Clamp,C(CCCCCCCC)(=O)NCc1cc(c(cc1)C[C@@H](CO)O)OC,0.1,uM,1
+Patch Clamp,c1(c(cc(N)c(c1)Cl)OC)C(N[C@@H]1[C@@H](C[N@@](CCCOc2ccc(F)cc2)CC1)OC)=O,0.091,uM,1
+Patch Clamp,O=C(OC(C)(C)C)N1CCC2OC(C1)C[N+](C2)CC(O)COc1ccc(C#N)cc1,0.0891,uM,1
+Patch Clamp,[H][C@@](O)(COc1ccc(C#N)cc1)CN2CC3CC(C2)CN(C(=O)OC(C)(C)C)C3,0.0891,uM,1
+Patch Clamp,CN(C)C(=N)c4ccc(C(=O)Nc2ccc(Sc1ccccc1)cc2C(=O)Nc3ccc(Cl)cn3)cc4,0.089,uM,1
+Patch Clamp,N1CCN(C1=O)CCN(CC2)CCC2c3cn(c(c34)ccc(Cl)c4)-c5ccccc5,0.088,uM,1
+Patch Clamp,[nH]1c2ccccc2c(c1c1ccccc1)C1CCN(CC1)c1ccccc1,0.08,uM,1
+Planar Patch Clamp,CN(CCC1=CC=C(C=C1)NS(=O)(=O)C)CCOC2=CC=C(C=C2)NS(=O)(=O)C,0.0794328,uM,1
+Patch Clamp,Clc1ccc2n(cc(C3CCN(CCN4CCNC4=O)CC3)c2c1)c5ccccc5,0.0794328,uM,1
+Patch Clamp,CCCCNCCC(O)c1cc2c(Cl)cc(Cl)cc2c3cc(ccc13)C(F)(F)F,0.0794328,uM,1
+Patch Clamp,CCCCNCCC(O)c1cc2c(Cl)cc(Cl)cc2c3cc(ccc13)C(F)(F)F,0.0717,uM,1
+Patch Clamp,COC(=O)c4ccc(Sc3ccc(NC(=O)c1ccc(C(=N)N(C)C)cc1)c(C(=O)Nc2ccc(Cl)cn2)c3)cc4,0.071,uM,1
+Patch Clamp,CCOC(=O)C[C@H]3CN(S(=O)(=O)c2cc1cc(Cl)ccc1[nH]2)CC(=O)N3Cc4ccc(C(=N)N(C)C)cc4,0.071,uM,1
+Patch Clamp,c1(c2c(cccc2)oc1CCCC)C(c1cc(c(OCCN(CC)CC)c(c1)I)I)=O,0.07,uM,1
+Patch Clamp,C1[C@@H](c2ccccc2OC1)CCN1CCC(CC1)c1cc(c(cc1)OC)OC,0.0691,uM,1
+Patch Clamp,COc5ccc(CCN4CCC(NNc2nc1ccccc1n2Cc3ccc(F)cc3)CC4)cc5,0.069,uM,1
+Patch Clamp,n1(c2c(cccc2)[nH]c1=O)C=1CC[N@@](CCCC(c2ccc(F)cc2)=O)CC1,0.06165,uM,1
+Patch Clamp,C(C1CCN(CCC[C@@H](c2ccc(C(C)(C)C)cc2)O)CC1)(c1ccccc1)(c1ccccc1)O,0.061,uM,1
+Patch Clamp,CS(=O)(=O)Nc1cc2c(c(oc2cc1)CCCC)C(c1ccc(cc1)OCCCN(CCCC)CCCC)=O,0.059,uM,1
+Patch Clamp,CCCCc1oc2ccccc2c1C(=O)c3ccc(OCCN(CC)CC)cc3,0.0588844,uM,1
+Patch Clamp,CC(C)(C)c1ccc(cc1)[C@@H](O)CCCN(CC2)CCC2C(O)(c3ccccc3)c4ccccc4,0.056,uM,1
+Patch Clamp,CCOC(=O)C4CCN(C(=N)c3ccc(C(=O)Nc1c(OC)cc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)c(F)c3)CC4,0.051,uM,1
+Patch Clamp,Fc1ccc(cc1)C(CCCN2CCC(CC2)n3c(=O)[nH]c4ccccc34)c5ccc(F)cc5,0.0501187,uM,1
+Patch Clamp, n1(c2c(cccc2)[nH]c1=O)C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,0.0501187,uM,1
+Patch Clamp,CS(=O)(=O)Nc(cc1)ccc1C(=O)C2CCN(CC2)CCc3cccc(n3)C,0.048,uM,1
+Patch Clamp,c1c(Cl)c(N)cc(OC)c1C(=O)N[C@H](CC2)[C@H](OC)C[C@@H]2CCCOc3ccc(F)cc3,0.045,uM,1
+Patch Clamp,c1(c2c(ccc(c2)Cl)n(c1)c1ccc(F)cc1)C1CCN(CCN2C(NCC2)=O)CC1,0.04265,uM,1
+Patch Clamp,CSc1ccc2Sc3ccccc3N(CCC4CCCCN4C)c2c1,0.04,uM,1
+Patch Clamp,CCCCN(CCCC)CCC(O)c2cc1c(Cl)cc(Cl)cc1c3cc(C(F)(F)F)ccc23,0.04,uM,1
+Patch Clamp,COC(=O)c1ccc(cc1)n2cc(C3CCN(CCN4CCNC4=O)CC3)c5cc(Cl)ccc25,0.0398107,uM,1
+Patch Clamp, c1(c(cc(N)c(c1)Cl)OC)C(N[C@@H]1[C@@H](C[N@@](CCCOc2ccc(F)cc2)CC1)OC)=O,0.0398107,uM,1
+Patch Clamp,C(C1CCN(CCC[C@@H](c2ccc(C(C)(C)C)cc2)O)CC1)(c1ccccc1)(c1ccccc1)O,0.0363,uM,1
+Patch Clamp,COC(=O)c1ccc(cc1)-n(c(c23)ccc(Cl)c3)cc2C4CCN(CC4)CCN(C5=O)CCN5,0.036,uM,1
+Patch Clamp,CS(=O)(=O)Nc5ccc4OC3(CCN(C2CCc1cc(C#N)ccc1C2)CC3)CC(O)c4c5,0.034,uM,1
+Patch Clamp,CN(C)CCCn7nc(c5c(c3cn(c2cnc1ccccc1c2)c4ccccc34)c(=O)[nH]c5=O)c6ccccc67,0.033,uM,1
+Patch Clamp, n1(c2c(cccc2)[nH]c1=O)C=1CC[N@@](CCCC(c2ccc(F)cc2)=O)CC1,0.0323594,uM,1
+Patch Clamp,O=C(OCC)C=1[nH0]2c3ccccc3c3CC[N+]4CCC[C@](C=1)(CC)[C@H]4(c23),0.032,uM,1
+Patch Clamp,c1ccccc1C(=O)CCCN(CC2)CCC2(O)c3ccccc3,0.032,uM,1
+Patch Clamp,Fc1ccc(cc1)C(=O)CCCN2CCC(=CC2)n3c4ccccc4[nH]c3=O,0.032,uM,1
+Patch Clamp, c1(C2(CCN(CCCC(c3ccc(F)cc3)=O)CC2)O)ccc(Cl)cc1,0.0301995,uM,1
+Patch Clamp,Clc1ccc(cc1)C([nH0]1c[nH0+](cc1)CC(OCc1ccc(Cl)cc1Cl)c1ccc(Cl)cc1Cl)c1ccc(Cl)cc1,0.03,uM,1
+Patch Clamp,Fc1ccc(cc1)C[nH0]1c2ccccc2[nH0]c1NC1CC[N+](CC1)CCc1ccc(O)cc1,0.03,uM,1
+Patch Clamp,c1(ccc(cc1)CCN1CCC(CC1)Nc1nc2c(n1Cc1ccc(cc1)F)cccc2)O,0.0295,uM,1
+Patch Clamp,[S+2]([O-])([O-])(Nc1ccc(cc1)C(O)CCC[N+](CC)CCCCCCC)C,0.028,uM,1
+Patch Clamp,c1ccc2n(c(nc2c1)NC1CCNCC1)Cc1ccc(cc1)F,0.0269,uM,1
+Patch Clamp,OC1(CCN(CCCC(=O)c2ccc(F)cc2)CC1)c3ccc(Cl)cc3,0.0251189,uM,1
+Patch Clamp,Fc1ccc(cc1)N2CC(C3CCN(CCN4CCNC4=O)CC3)c5ccccc25,0.0251189,uM,1
+Patch Clamp,C(c1ccccc1)(c1ccccc1)OC1CCN(CCCC(c2ccc(C(C)(C)C)cc2)=O)CC1,0.0251,uM,1
+Patch Clamp,Clc1cccc(c1)CN1CCC([N+](CCCc2ccccc2)Cc2[nH0](c[nH0]c2)Cc2ccc(C#N)cc2)C1=O,0.024,uM,1
+Patch Clamp,N1CCN(C1=O)CCN(CC2)CCC2[C@H]3CN(c(c34)cccc4)c5ccc(F)cc5,0.0235,uM,1
+Patch Clamp,CN(C)CCCn7nc(c5c(c3cn(c2ccc1ccccc1c2)c4ccccc34)c(=O)[nH]c5=O)c6ccccc67,0.022,uM,1
+Patch Clamp,CCCCN(CCCC)CCC(O)c1cc2c(Cl)cc(Cl)cc2c3cc(ccc13)C(F)(F)F,0.0216,uM,1
+Patch Clamp,COc1cc(N)c(Cl)cc1C(=O)NC3CCN(CCCOc2ccc(F)cc2)CC3OC,0.02,uM,1
+Patch Clamp,CCCCN(CCCC)CCC(O)c1cc2c(Cl)cc(Cl)cc2c3cc(ccc13)C(F)(F)F,0.0199526,uM,1
+Patch Clamp, c1(nc(CCN2CCC(CC2)C(c2ccc(cc2)NS(C)(=O)=O)=O)ccc1)C,0.0199526,uM,1
+Patch Clamp,c1(c(cc(N)c(c1)Cl)OC)C(N[C@@H]1[C@@H](C[N@@](CCCOc2ccc(F)cc2)CC1)OC)=O,0.0199,uM,1
+Patch Clamp,O=[N+]([O-])c1ccc(cc1)C(=O)N(CCC[N+](C)CCc1ccc(OC)c(OC)c1)c1ccc(OC)c(OC)c1,0.0198,uM,1
+Patch Clamp,CS(Nc1ccc(OCC[N@@](CCc2ccc(cc2)NS(C)(=O)=O)C)cc1)(=O)=O,0.01905,uM,1
+Patch Clamp,[nH]1c2ccccc2c(c1c1ccccc1)C1CC2N(c3ccccc3)C(C1)CC2,0.018,uM,1
+Patch Clamp,c1cc(F)ccc1C(c2ccc(F)cc2)CCCN(CC3)CCC3n4c(=O)[nH]c(c45)cccc5,0.018,uM,1
+Patch Clamp,Oc1ccc(C)cc1[C@H](CC[N+](C(C)C)C(C)C)c1ccccc1,0.017,uM,1
+Patch Clamp,CCOC(=O)C4CCN(C(=N)c3ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)cc3)CC4,0.017,uM,1
+Patch Clamp, c1([C@H](c2ccccc2)CCN(C(C)C)C(C)C)c(ccc(c1)C)O,0.0169824,uM,1
+Patch Clamp,CCOC(=O)C4CCCN(C(=N)c3ccc(C(=O)Nc1ccc(Cl)cc1C(=O)Nc2ccc(Cl)cn2)cc3)C4,0.016,uM,1
+Patch Clamp,Fc1ccc(cc1)C(CCC[N+]1CC[N+](CC1)CC(=O)Nc1c(C)cccc1C)c1ccc(F)cc1,0.016,uM,1
+Patch Clamp,CC(C)(C)c1ccc(cc1)[C@@H](O)CCCN(CC2)CCC2C(O)(c3ccccc3)c4ccccc4,0.016,uM,1
+Patch Clamp, C(c1ccc(F)cc1)(c1ccc(F)cc1)CCCN1CCN(CC(Nc2c(cccc2C)C)=O)CC1,0.0158489,uM,1
+Patch Clamp,Fc1ccc(cc1)C(CCC[N+]1CC[N+](CC1)CC(=O)Nc1c(C)cccc1C)c1ccc(F)cc1,0.0158,uM,1
+Patch Clamp,c1(C2(CCN(CCCC(c3ccc(F)cc3)=O)CC2)O)ccc(Cl)cc1,0.015,uM,1
+Planar Patch Clamp,COC1=CC=C(C=C1)CCN2CCC(CC2)NC3=NC4=CC=CC=C4N3CC5=CC=C(C=C5)F,0.0125893,uM,1
+Planar Patch Clamp,C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCCC(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F,0.0125893,uM,1
+Patch Clamp,Clc1ccc(CCCC[N+](CCCCCCC)(CC)CC)cc1,0.0125,uM,1
+Patch Clamp,Clc1ccc(cc1)C(OCCC1[N+](C)CCC1)(C)c1ccccc1,0.012,uM,1
+Patch Clamp,Clc1ccc(cc1)CCCC[N+](CC)(CC)CCCCCCC,0.012,uM,1
+Patch Clamp,CS(=O)(=O)Nc(cc1)ccc1CCN(C)CCOc(cc2)ccc2NS(=O)(=O)C,0.012,uM,1
+Patch Clamp,O=c4[nH]c(=O)c(c2nn(CCCN1CCCC1)c3ccccc23)c4c7cn(c6ccc5ccccc5c6)c8ccccc78,0.011,uM,1
+Patch Clamp,c1c(Cl)ccc(c12)n(cc2N(C)C)-c3ccc(F)cc3,0.011,uM,1
+Patch Clamp,Fc1ccc(cc1)n2cc(C3=CCN(CCN4CCNC4=O)CC3)c5cc(Cl)ccc25,0.01,uM,1
+Patch Clamp,CN(C)Cc1cn(c2ccc(F)cc2)c3ccc(Cl)cc13,0.01,uM,1
+Patch Clamp,N1CCN(C1=O)CCN(CC2)CC=C2c3cn(c(c34)ccc(Cl)c4)-c5ccc(F)cc5,0.01,uM,1
+Patch Clamp,CN(CCOc1ccc(NS(C)(=O)=O)cc1)CCc2ccc(NS(C)(=O)=O)cc2,0.01,uM,1
+Patch Clamp, n1(c2c(cccc2)nc1NC1CCN(CCc2ccc(OC)cc2)CC1)Cc1ccc(F)cc1,0.01,uM,1
+Patch Clamp, CS(Nc1ccc(OCC[N@@](CCc2ccc(cc2)NS(C)(=O)=O)C)cc1)(=O)=O,0.01,uM,1
+Patch Clamp, c1(c2c(ccc(c2)Cl)n(c1)c1ccc(F)cc1)C1CCN(CCN2C(NCC2)=O)CC1,0.01,uM,1
+Patch Clamp,c1(ccc(cc1)NS(=O)(=O)C)[C@@H](CCC[N@@](CCCCCCC)CC)O,0.01,uM,1
+Patch Clamp,COc1cc(N)c(Cl)cc1C(=O)NC3CCN(CCCOc2ccc(F)cc2)CC3OC,0.0094,uM,1
+Patch Clamp,CN(CCOc1ccc(NS(C)(=O)=O)cc1)CCc2ccc(NS(C)(=O)=O)cc2,0.0092,uM,1
+Patch Clamp,N1CCN(C1=O)CCN(CC2)CC[C@@H]2c3cn(c(c34)cccc4)-c5ccc(F)cc5,0.007,uM,1
+Patch Clamp,Fc1ccc(cc1)C(OCC[N+]1CC[N+](CC1)CCCc1ccccc1)c1ccc(F)cc1,0.007,uM,1
+Patch Clamp,Fc1ccc(cc1)n2cc(C3CCN(CCN4CCNC4=O)CC3)c5ccccc25,0.00630957,uM,1
+Patch Clamp,Fc1ccc2n(cc(C3CCN(CCN4CCNC4=S)CC3)c2c1)c5ccccc5,0.00630957,uM,1
+Patch Clamp,N1CCN(C1=S)CCN(CC2)CCC2c3cn(c(c34)cccc4)-c5ccc(F)cc5,0.0062,uM,1
+Patch Clamp,n1(c2c(cccc2)nc1NC1CCN(CCc2ccc(OC)cc2)CC1)Cc1ccc(F)cc1,0.0057,uM,1
+Patch Clamp,Fc1ccc(cc1)C(CCC[N+]1CCC2(N(CNC2=O)c2ccccc2)CC1)c1ccc(F)cc1,0.003,uM,1
+Patch Clamp,CS(=O)(=O)Nc4ccc(CCN(CCOc1ccc(NS(C)(=O)=O)cc1)c2ccc(N(=O)=O)c3nonc23)cc4,0.003,uM,1
+Patch Clamp,N1CCN(C1=O)CCN(CC2)CCC2c3cn(c(c34)ccc(Cl)c4)-c5ccc(F)cc5,0.003,uM,1
+Patch Clamp,CS(=O)(=O)NC1=CC2=C(C=C1)OC3(CCN(CC3)C4CCC5=C(C4)C=CC(=C5)C#N)CC2O,0.002691,uM,1
+Patch Clamp,c1cc(F)ccc1C(c2ccc(F)cc2)CCCN(CC3)CCC3n4c(=O)[nH]c(c45)cccc5,0.0018,uM,1
+Patch Clamp,c1(ccc(cc1)[N+](=O)[O-])CCCC[N@@](CCCCCCC)CC,0.0015,uM,1
+Patch Clamp,COc(cc1)ccc1CCN(CC2)CCC2Nc(n3)n(c(c34)cccc4)Cc5ccc(F)cc5,0.0012,uM,1
+Patch Clamp,Fc1ccc(cc1)C(OCC[N+]1CC[N+](CC1)CCCc1ccccc1)c1ccc(F)cc1,0.001,uM,1
+Patch Clamp,[H]N(C(=O)c2ccc(c1ccc(C#N)cc1)o2)c3cccc(C)c3,0,uM,1
+Patch Clamp,COc3cc(Nc2nn1c(NCC(C)(C)N)cc(C)nc1c2C(N)=O)cc(OC)c3,0,uM,1
+Patch Clamp,COc3cc(Nc2nn1c(NC[C@@H](C)N)cc(C)nc1c2C(N)=O)cc(OC)c3,0,uM,1
+Patch Clamp,COc3cc(Nc2nn1c(NC[C@H](C)N)cc(C)nc1c2C(N)=O)cc(OC)c3,0,uM,1
+Patch Clamp,COc4cc(Nc3nn2c(N[C@@H](CO)C(C)C)cc(c1ccccc1)nc2c3C(N)=O)cc(OC)c4,0,uM,1
+Patch Clamp,COc3cc(Nc2nn1c(N[C@@H](CO)C(C)C)cc(C(C)C)nc1c2C(N)=O)cc(OC)c3,0,uM,1
+Patch Clamp,COc4cc(Nc3nn2c(N[C@@H](CO)C(C)C)cc(C1CC1)nc2c3C(N)=O)cc(OC)c4,0,uM,1
+Patch Clamp,NC(=O)c3c(Nc1ccccc1)nn4c(N)cc(C2CC2)nc34,0,uM,1
+Patch Clamp,COc5cc(Nc4nn3c(N1CCC[C@@H]1CO)cc(C2CC2)nc3c4C(N)=O)cc(OC)c5,0,uM,1
+Patch Clamp,COc5cc(Nc4nn3c(N[C@H](CO)Cc1ccccc1)cc(C2CC2)nc3c4C(N)=O)cc(OC)c5,0,uM,1
+Patch Clamp,COc6cc(Nc5nn4c(N[C@H](CO)Cc1c[nH]c2ccccc12)cc(C3CC3)nc4c5C(N)=O)cc(OC)c6,0,uM,1
+Patch Clamp,COc3ccc(C(=O)NCc2ccc(NC1=NCCN1)cc2)cc3,0,uM,1
+Patch Clamp,Coc3ccc(C(=O)NCc2ccc(NC1=NCCN1)cc2)cc3,0,uM,1
+Patch Clamp,CC[C@@H]3OC(=O)[C@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C(C)C)[C@H]2O)[C@@](C)(O)C[C@@H](C)C[C@@H](C)[C@@H](O)[C@]3(C)O,0,uM,1
+Patch Clamp,CC[C@@H]3OC(=O)[C@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C(C)C)[C@H]2O)[C@@](C)(O)C[C@@H](C)C[C@@H](C)[C@@H](O)[C@]3(C)O,0,uM,1
+Patch Clamp,CCC(C)N(C)[C@H]3C[C@@H](C)O[C@@H](O[C@@H]2[C@@H](C)[C@@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@@H](C)C(=O)O[C@@H](CC)[C@@](C)(O)[C@H](O)[C@H](C)C[C@H](C)C[C@]2(C)O)[C@@H]3O,0,uM,1
+Patch Clamp,CCC(C)N(C)[C@H]3C[C@@H](C)O[C@@H](O[C@@H]2[C@@H](C)[C@@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@@H](C)C(=O)O[C@@H](CC)[C@@](C)(O)[C@H](O)[C@H](C)C[C@H](C)C[C@]2(C)O)[C@@H]3O,0,uM,1
+Patch Clamp,CC[C@@H]3OC(=O)[C@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)CC(C)C)[C@H]2O)[C@@](C)(O)C[C@@H](C)C[C@@H](C)[C@@H](O)[C@]3(C)O,0,uM,1
+Patch Clamp,CC[C@@H]3OC(=O)[C@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)CC(C)C)[C@H]2O)[C@@](C)(O)C[C@@H](C)C[C@@H](C)[C@@H](O)[C@]3(C)O,0,uM,1
+Patch Clamp,CC[C@@H]3OC(=O)[C@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)CCO)[C@H]2O)[C@@](C)(O)C[C@@H](C)C[C@@H](C)[C@@H](O)[C@]3(C)O,0,uM,1
+Patch Clamp,CC[C@@H]3OC(=O)[C@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)CCO)[C@H]2O)[C@@](C)(O)C[C@@H](C)C[C@@H](C)[C@@H](O)[C@]3(C)O,0,uM,1
+Patch Clamp,CC[C@@H]3OC(=O)[C@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@@](C)(O)C[C@@H](C)C(=O)[C@@H](C)[C@@H](O)[C@]3(C)O,0,uM,1
+Patch Clamp,CC[C@@H]3OC(=O)[C@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@@](C)(O)C[C@@H](C)C(=O)[C@@H](C)[C@@H](O)[C@]3(C)O,0,uM,1
+Patch Clamp,[H][C@H]4[C@H](C)O[C@@H](O[C@H]3[C@@H](C)C(=O)O[C@@H](CC)[C@]([H])(C)[C@H](O)[C@H](C)C1=C(C)C[C@](C)(O1)[C@H](O[C@@H]2O[C@H](C)C[C@H](N(C)CC)[C@H]2O)[C@H]3C)C[C@@]4(C)OC,0,uM,1
+Patch Clamp,[H][C@H]4[C@H](C)O[C@@H](O[C@H]3[C@@H](C)C(=O)O[C@@H](CC)[C@]([H])(C)[C@H](O)[C@H](C)C1=C(C)C[C@](C)(O1)[C@H](O[C@@H]2O[C@H](C)C[C@H](N(C)CC)[C@H]2O)[C@H]3C)C[C@@]4(C)OC,0,uM,1
+Patch Clamp,[H]c5cc4c([H])c(Nc2ncnn3cc(c1nnc(C)o1)c(C(C)C)c23)cnc4[nH]5,0,uM,1
+Patch Clamp,[H]c4c(Nc2ncnn3cc(c1nnc(NC)o1)c(C(C)C)c23)cnc5[nH]c(C)cc45,0,uM,1
+Patch Clamp,[H]c1ccc(C)nc1c3cccc(S(=O)(=O)c2cc(C(=N)N)sc2SC)c3,0,uM,1
+Patch Clamp,CSC1=C(C=C(S1)C(N)=N)S(=O)(=O)c2cccc(c2)-c3cc(C)ccc3NC(=O)CCCCC(O)=O,0,uM,1
+Patch Clamp,CSc1sc(C(=N)N)cc1S(=O)(=O)c3cccc(c2cc(C)ccc2NC(=O)NCCCCCC(=O)O)c3,0,uM,1
+Patch Clamp,CSc1sc(cc1S(=O)(=O)c2cccc(c2)-c3c(C)cccc3NC(=O)CS(C)(=O)=O)C(N)=N,0,uM,1
+Patch Clamp,CSc1sc(cc1S(=O)(=O)c2cccc(c2)-c3c(C)cccc3NC(=O)CS(C)(=O)=O)C(N)=N,0,uM,1
+Patch Clamp,CSc1sc(cc1S(=O)(=O)c2cccc(c2)-c3c(C)cccc3NC(=O)CCCS(C)(=O)=O)C(N)=N,0,uM,1
+Patch Clamp,CCC(C)Nc2ncc(C(=O)Nc1cc(C(=O)NC)ccc1C)s2,0,uM,1
+Patch Clamp,CC(C)c3nnc4ccc(c1ocnc1c2ccc(F)cc2)cn34,0,uM,1
+Patch Clamp,CC(C)c3nnc4ccc(c1ocnc1c2cccc(Cl)c2)cn34,0,uM,1
+Patch Clamp,CC(C)c3nnc4ccc(c1ocnc1c2cc(F)ccc2F)cn34,0,uM,1
+Patch Clamp,CC(C)c3nnc4ccc(c1ocnc1c2ccc(F)c(Cl)c2)cn34,0,uM,1
+Patch Clamp,CC(C)c3nnc4ccc(c1ocnc1c2ccc(F)cc2Cl)cn34,0,uM,1
+Patch Clamp,CC(C)(C)c3nnc4ccc(c1ocnc1c2ccccc2)cn34,0,uM,1
+Patch Clamp,CC(C)(C)c3ccc(NC(=O)N2CCN(c1ncccc1Cl)CC2)cc3,0,uM,1
+Patch Clamp,Cc1ccnnc1N3CCN(C(=O)Nc2ccc(C(C)(C)C)cc2)[C@H](C)C3,0,uM,1
+Patch Clamp,Cc1cc(Cl)nnc1N3CCN(C(=O)Nc2ccc(C(C)(C)C)cc2)[C@H](C)C3,0,uM,1
+Patch Clamp,Cc1cc(Cl)nnc1N4CCN(C(=O)Nc3nc2ccc(F)cc2s3)[C@H](C)C4,0,uM,1
+Patch Clamp,O=C(c2ccc1ncccc1c2)N5CCC(N4CCC(Cc3ccc(Cl)c(Cl)c3)[C@H](CO)C4)CC5,0,uM,1
+Patch Clamp,O=c3[nH]c(=Cc2ccc(CN1CCCC1)cc2)c(=O)n3c5ccc(Oc4ccccc4)cc5,0,uM,1
+Patch Clamp,FC(F)(F)c4ccc(Nc2ncnc3cc(c1ncccc1C(F)(F)F)ccc23)cc4,0,uM,1
+Patch Clamp,Cc4nc(Nc1ccc(C(F)(F)F)cc1)c3ccc(c2ncccc2C(F)(F)F)cc3n4,0,uM,1
+Patch Clamp,OCc4nc(Nc1ccc(C(F)(F)F)cc1)c3ccc(c2ncccc2C(F)(F)F)cc3n4,0,uM,1
+Patch Clamp,COCc4nc(Nc1ccc(C(F)(F)F)cc1)c3ccc(c2ncccc2C(F)(F)F)cc3n4,0,uM,1
+Patch Clamp,CCOCc4nc(Nc1ccc(C(F)(F)F)cc1)c3ccc(c2ncccc2C(F)(F)F)cc3n4,0,uM,1
+Patch Clamp,CC(C)OCc4nc(Nc1ccc(C(F)(F)F)cc1)c3ccc(c2ncccc2C(F)(F)F)cc3n4,0,uM,1
+Patch Clamp,FC(F)(F)c5ccc(Nc3nc(COCc1ccccc1)nc4cc(c2ncccc2C(F)(F)F)ccc34)cc5,0,uM,1
+Patch Clamp,COCCc4nc(Nc1ccc(C(F)(F)F)cc1)c3ccc(c2ncccc2C(F)(F)F)cc3n4,0,uM,1
+Patch Clamp,CCN(CC)Cc1nc(Nc2ccc(cc2)C(F)(F)F)c3ccc(cc3n1)-c4ncccc4C(F)(F)F,0,uM,1
+Patch Clamp,FC(F)(F)c5ccc(Nc3nc(CN1CCOCC1)nc4cc(c2ncccc2C(F)(F)F)ccc34)cc5,0,uM,1
+Patch Clamp,CC5CN(Cc4nc(Nc1ccc(C(F)(F)F)cc1)c3ccc(c2ncccc2C(F)(F)F)cc3n4)CC(C)O5,0,uM,1
+Patch Clamp,FC(F)(F)c5ccc(Nc3nc(CCCN1CCOCC1)nc4cc(c2ncccc2C(F)(F)F)ccc34)cc5,0,uM,1
+Patch Clamp,C[C@H]5CN(CCCc4nc(Nc1ccc(C(F)(F)F)cc1)c3ccc(c2ncccc2C(F)(F)F)cc3n4)C[C@@H](C)O5,0,uM,1
+Patch Clamp,FC(F)(F)c4ccc(Nc2ncnc3cc(c1ncccc1C(F)(F)F)ccc23)nc4,0,uM,1
+Patch Clamp,FC(F)(F)c5ccc(Nc3nc(CN1CCOCC1)nc4cc(c2ncccc2C(F)(F)F)ccc34)nc5,0,uM,1
+Patch Clamp,FC(F)(F)c4ccc(Nc2ncnc3cc(c1ncccc1C(F)(F)F)ccc23)cn4,0,uM,1
+Patch Clamp,CC(C)OCc4nc(Nc1ccc(C(F)(F)F)nc1)c3ccc(c2ncccc2C(F)(F)F)cc3n4,0,uM,1
+Patch Clamp,C[C@@H]5CN(Cc4nc(Nc1ccc(C(F)(F)F)nc1)c3ccc(c2ncccc2C(F)(F)F)cc3n4)C[C@H](C)O5,0,uM,1
+Patch Clamp,Cc6cc(C[C@@H](NC(=O)N3CCC(N2Cc1cccc(F)c1NC2=O)CC3)C(=O)N5CCC(N4CCCCC4)CC5)cc7cn[nH]c67,0,uM,1
+Patch Clamp,CC(C)c1noc(n1)C2CCN(CC2)c3ncnc(Nc4ccc(cc4F)S(C)(=O)=O)c3N(=O)=O,0,uM,1
